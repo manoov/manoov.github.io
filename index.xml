@@ -33,14 +33,6 @@
     </item>
     
     <item>
-      <title>An improved unsupervised learning approach for potential human microRNA–disease association inference using cluster knowledge</title>
-      <link>https://manoov.github.io/publication/mirna/</link>
-      <pubDate>Sat, 31 Dec 2022 18:14:29 +0530</pubDate>
-      <guid>https://manoov.github.io/publication/mirna/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>School_talk</title>
       <link>https://manoov.github.io/talk/school_talk/</link>
       <pubDate>Wed, 28 Dec 2022 23:02:20 +0530</pubDate>
@@ -59,6 +51,14 @@
   &lt;/div&gt;
 &lt;/div&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>An improved unsupervised learning approach for potential human microRNA–disease association inference using cluster knowledge</title>
+      <link>https://manoov.github.io/publication/mirna/</link>
+      <pubDate>Tue, 23 Mar 2021 18:14:29 +0530</pubDate>
+      <guid>https://manoov.github.io/publication/mirna/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -286,7 +286,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-654798132&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-172893546&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -296,7 +296,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-654798132&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-172893546&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
