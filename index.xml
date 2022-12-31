@@ -278,7 +278,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-652879134&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-514238679&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -288,7 +288,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-652879134&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-514238679&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -831,6 +831,15 @@ $$&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://manoov.github.io/admin/config.yml</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://manoov.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://manoov.github.io/search/</guid>
+      <description>&lt;p&gt;Have a question you want answered? Is there something you would like me to write about? Just use the form below to reach out to me.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
