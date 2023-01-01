@@ -242,9 +242,56 @@
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZFH0PEQZVP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-ZFH0PEQZVP', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
 
 
 
+
+
+
+
+<script>
+  (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+  })(window, document, "clarity", "script", 'f7mnyvtvwg');
+</script>
 
 
 
@@ -1007,7 +1054,7 @@ data.head()
 
 
 
-<div id="chart-571649283" class="chart"></div>
+<div id="chart-451738962" class="chart"></div>
 <script>
   (function() {
     let a = setInterval( function() {
@@ -1017,7 +1064,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json("./line-chart.json", function(chart) {
-        Plotly.plot('chart-571649283', chart.data, chart.layout, {responsive: true});
+        Plotly.plot('chart-451738962', chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
