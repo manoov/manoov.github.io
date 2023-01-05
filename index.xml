@@ -13,18 +13,10 @@
     </image>
     
     <item>
-      <title>School_talk</title>
-      <link>https://manoov.github.io/talk/school_talk/</link>
-      <pubDate>Wed, 28 Dec 2022 23:02:20 +0530</pubDate>
-      <guid>https://manoov.github.io/talk/school_talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Moodle Deep Dive (Course Design with the student in mind)</title>
-      <link>https://manoov.github.io/talk/moodle-deep-dive-course-design-with-the-student-in-mind/</link>
-      <pubDate>Fri, 15 Jul 2022 14:00:00 +0530</pubDate>
-      <guid>https://manoov.github.io/talk/moodle-deep-dive-course-design-with-the-student-in-mind/</guid>
+      <title>Invited talk on Careers in BlockChain</title>
+      <link>https://manoov.github.io/talk/invited-talk-on-careers-in-blockchain/</link>
+      <pubDate>Thu, 27 Jan 2022 15:00:00 +0530</pubDate>
+      <guid>https://manoov.github.io/talk/invited-talk-on-careers-in-blockchain/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -266,7 +258,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-162947835&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-419256378&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -276,7 +268,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-162947835&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-419256378&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

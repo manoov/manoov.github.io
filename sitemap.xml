@@ -2,20 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://manoov.github.io/event/</loc>
-    <lastmod>2022-12-28T23:02:20+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://manoov.github.io/talk/school_talk/</loc>
-    <lastmod>2022-12-28T23:02:20+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://manoov.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://manoov.github.io/talk/moodle-deep-dive-course-design-with-the-student-in-mind/</loc>
-    <lastmod>2022-07-15T14:00:00+05:30</lastmod>
+    <loc>https://manoov.github.io/talk/invited-talk-on-careers-in-blockchain/</loc>
+    <lastmod>2022-01-27T15:00:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/event/</loc>
+    <lastmod>2022-01-27T15:00:00+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://manoov.github.io/publication-type/2/</loc>
