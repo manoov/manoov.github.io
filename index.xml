@@ -286,7 +286,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-489527631&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-185963427&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -296,7 +296,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-489527631&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-185963427&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -654,7 +654,7 @@ Crash --&gt; [*]
       <link>https://manoov.github.io/slides/moodle_talk-ssl/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://manoov.github.io/slides/moodle_talk-ssl/</guid>
-      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;moodle-talk-ssl&#34;&gt;Moodle Talk SSL&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
