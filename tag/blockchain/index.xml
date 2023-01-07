@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Academic</title>
-    <link>https://manoov.github.io/event/</link>
-      <atom:link href="https://manoov.github.io/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2022 15:45:18 +0530</lastBuildDate>
+    <title>Blockchain | Academic</title>
+    <link>https://manoov.github.io/tag/blockchain/</link>
+      <atom:link href="https://manoov.github.io/tag/blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blockchain</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Jan 2022 15:00:00 +0530</lastBuildDate>
     <image>
       <url>https://manoov.github.io/media/icon_hu1f4c1de8b941112a95b13c381c2c09bc_15865_512x512_fill_lanczos_center_3.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://manoov.github.io/event/</link>
+      <title>Blockchain</title>
+      <link>https://manoov.github.io/tag/blockchain/</link>
     </image>
-    
-    <item>
-      <title>Moodle Deep Dive - Course Design with the student in mind</title>
-      <link>https://manoov.github.io/talk/moodle-deep-dive-course-design-with-the-student-in-mind/</link>
-      <pubDate>Wed, 15 Jun 2022 15:45:18 +0530</pubDate>
-      <guid>https://manoov.github.io/talk/moodle-deep-dive-course-design-with-the-student-in-mind/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Invited talk on Careers in BlockChain</title>
