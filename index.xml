@@ -130,6 +130,30 @@
     </item>
     
     <item>
+      <title>Churn Prediction and Retention in Banking, Telecom and IT Sectors Using Machine Learning Techniques.</title>
+      <link>https://manoov.github.io/publication/churnprediction/</link>
+      <pubDate>Sun, 26 Jul 2020 21:03:09 +0530</pubDate>
+      <guid>https://manoov.github.io/publication/churnprediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Securing the Data in Cloud Environment Using Parallel and Multistage Security Mechanism</title>
+      <link>https://manoov.github.io/publication/ranjan2019/</link>
+      <pubDate>Thu, 28 Nov 2019 21:21:13 +0530</pubDate>
+      <guid>https://manoov.github.io/publication/ranjan2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fog Image Classification and Visibility Detection Using CNN</title>
+      <link>https://manoov.github.io/publication/shruti2019/</link>
+      <pubDate>Sat, 19 Oct 2019 21:26:25 +0530</pubDate>
+      <guid>https://manoov.github.io/publication/shruti2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Writing technical content in Markdown</title>
       <link>https://manoov.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
@@ -233,7 +257,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-714385962&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-938215647&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -243,7 +267,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-714385962&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-938215647&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -842,6 +866,22 @@ $$&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Airbag ECU coupled vehicle accident SMS alert system</title>
+      <link>https://manoov.github.io/publication/dheeraj2017/</link>
+      <pubDate>Mon, 28 May 2018 21:41:01 +0530</pubDate>
+      <guid>https://manoov.github.io/publication/dheeraj2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure and cost effective user revocation mechanism for data analysis in the cloud</title>
+      <link>https://manoov.github.io/publication/thanusha2018/</link>
+      <pubDate>Sun, 01 Apr 2018 21:31:21 +0530</pubDate>
+      <guid>https://manoov.github.io/publication/thanusha2018/</guid>
+      <description></description>
     </item>
     
     <item>

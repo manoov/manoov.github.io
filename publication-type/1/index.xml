@@ -5,7 +5,7 @@
     <link>https://manoov.github.io/publication-type/1/</link>
       <atom:link href="https://manoov.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 26 Jul 2020 21:03:09 +0530</lastBuildDate>
     <image>
       <url>https://manoov.github.io/media/icon_hu1f4c1de8b941112a95b13c381c2c09bc_15865_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
@@ -13,22 +13,35 @@
     </image>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://manoov.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://manoov.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Churn Prediction and Retention in Banking, Telecom and IT Sectors Using Machine Learning Techniques.</title>
+      <link>https://manoov.github.io/publication/churnprediction/</link>
+      <pubDate>Sun, 26 Jul 2020 21:03:09 +0530</pubDate>
+      <guid>https://manoov.github.io/publication/churnprediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Securing the Data in Cloud Environment Using Parallel and Multistage Security Mechanism</title>
+      <link>https://manoov.github.io/publication/ranjan2019/</link>
+      <pubDate>Thu, 28 Nov 2019 21:21:13 +0530</pubDate>
+      <guid>https://manoov.github.io/publication/ranjan2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fog Image Classification and Visibility Detection Using CNN</title>
+      <link>https://manoov.github.io/publication/shruti2019/</link>
+      <pubDate>Sat, 19 Oct 2019 21:26:25 +0530</pubDate>
+      <guid>https://manoov.github.io/publication/shruti2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Airbag ECU coupled vehicle accident SMS alert system</title>
+      <link>https://manoov.github.io/publication/dheeraj2017/</link>
+      <pubDate>Mon, 28 May 2018 21:41:01 +0530</pubDate>
+      <guid>https://manoov.github.io/publication/dheeraj2017/</guid>
+      <description></description>
     </item>
     
   </channel>
