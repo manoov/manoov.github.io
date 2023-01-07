@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Faculty Development Programme on “Moodle for Teaching English</title>
+      <title>Faculty Development Programme on &#34;Moodle for Teaching English&#34;</title>
       <link>https://manoov.github.io/talk/faculty-development-programme-on-moodle-for-teaching-english/</link>
       <pubDate>Wed, 13 Jul 2022 14:00:12 +0530</pubDate>
       <guid>https://manoov.github.io/talk/faculty-development-programme-on-moodle-for-teaching-english/</guid>
@@ -265,7 +265,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-146857923&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-743628951&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -275,7 +275,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-146857923&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-743628951&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
