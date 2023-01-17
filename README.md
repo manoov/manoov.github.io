@@ -1,3 +1,1 @@
-# https://manoov.github.io/ 
-
-        #MadeWithWowchemy
+# manoov.github.io
