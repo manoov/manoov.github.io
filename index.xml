@@ -13,14 +13,6 @@
     </image>
     
     <item>
-      <title>SEED Grant 2022</title>
-      <link>https://manoov.github.io/project/seed-grant-2022/</link>
-      <pubDate>Sat, 07 Jan 2023 01:49:36 +0530</pubDate>
-      <guid>https://manoov.github.io/project/seed-grant-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Faculty Development Programme on &#34;Moodle for Teaching English&#34;</title>
       <link>https://manoov.github.io/talk/faculty-development-programme-on-moodle-for-teaching-english/</link>
       <pubDate>Wed, 13 Jul 2022 14:00:12 +0530</pubDate>
@@ -265,7 +257,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-673925148&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-195264387&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -275,7 +267,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-673925148&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-195264387&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
