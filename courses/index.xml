@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses | Academic</title>
+    <link>https://manoov.github.io/courses/</link>
+      <atom:link href="https://manoov.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Courses</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 02 Dec 2023 10:19:05 +0530</lastBuildDate>
+    <image>
+      <url>https://manoov.github.io/media/icon_hu1f4c1de8b941112a95b13c381c2c09bc_15865_512x512_fill_lanczos_center_3.png</url>
+      <title>Courses</title>
+      <link>https://manoov.github.io/courses/</link>
+    </image>
+    
+    <item>
+      <title>BCSE205L: Computer Architecture and Organization</title>
+      <link>https://manoov.github.io/courses/_bcse205l-computer-architecture-and-organization/</link>
+      <pubDate>Sat, 02 Dec 2023 10:19:05 +0530</pubDate>
+      <guid>https://manoov.github.io/courses/_bcse205l-computer-architecture-and-organization/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;BCSE205L: Computer Architecture and Organization&lt;/strong&gt; &lt;br&gt;
+Sessions: Winter&#39;23
+&lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CSI3025: Application Development and Deployment Architecture</title>
+      <link>https://manoov.github.io/courses/_csi3025-application-development-and-deployment-architecture/</link>
+      <pubDate>Sat, 02 Dec 2023 10:19:05 +0530</pubDate>
+      <guid>https://manoov.github.io/courses/_csi3025-application-development-and-deployment-architecture/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;CSI3025: Application Development and Deployment Architecture&lt;/strong&gt; &lt;br&gt;
+Session: Spring&#39;21 &lt;br&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Course Objectives:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;To understand various process &amp;amp; methodologies to be followed during development life
+cycle&lt;/li&gt;
+&lt;li&gt;To design the deployment architecture and preparing for the release management plan.&lt;/li&gt;
+&lt;li&gt;To use the various tools and framework associated with development and deployment of
+the applications.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;further-readings&#34;&gt;Further readings&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;Further readings&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

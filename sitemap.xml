@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://manoov.github.io/courses/_bcse205l-computer-architecture-and-organization/</loc>
+    <lastmod>2023-12-02T10:19:05+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/courses/</loc>
+    <lastmod>2023-12-02T10:19:05+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/courses/_csi3025-application-development-and-deployment-architecture/</loc>
+    <lastmod>2023-12-02T10:19:05+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://manoov.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
