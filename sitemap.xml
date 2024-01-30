@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://manoov.github.io/publication-type/1/</loc>
+    <lastmod>2024-01-31T00:07:20+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/publication_types/</loc>
+    <lastmod>2024-01-31T00:07:20+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/publication/</loc>
+    <lastmod>2024-01-31T00:07:20+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/publication/quantum/</loc>
+    <lastmod>2024-01-31T00:07:20+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/quantum-computing/</loc>
+    <lastmod>2024-01-31T00:07:20+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/quantum-entanglement/</loc>
+    <lastmod>2024-01-31T00:07:20+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tags/</loc>
+    <lastmod>2024-01-31T00:07:20+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://manoov.github.io/courses/_bcse205l-computer-architecture-and-organization/</loc>
     <lastmod>2023-12-02T10:19:05+05:30</lastmod>
     <changefreq>weekly</changefreq>
@@ -27,10 +55,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://manoov.github.io/event/</loc>
-    <lastmod>2022-07-13T14:00:12+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://manoov.github.io/tags/</loc>
     <lastmod>2022-07-13T14:00:12+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -74,14 +98,6 @@
     <lastmod>2021-03-23T18:14:29+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://manoov.github.io/publication_types/</loc>
-    <lastmod>2021-03-23T18:14:29+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://manoov.github.io/publication/</loc>
-    <lastmod>2021-03-23T18:14:29+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://manoov.github.io/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -100,10 +116,6 @@
   </url><url>
     <loc>https://manoov.github.io/post/getting-started/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://manoov.github.io/publication-type/1/</loc>
-    <lastmod>2020-07-26T21:03:09+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://manoov.github.io/tag/churn-prediction/</loc>

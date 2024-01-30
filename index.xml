@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Qiskit Simulation of CNOT Equivalent Circuits</title>
+      <link>https://manoov.github.io/publication/quantum/</link>
+      <pubDate>Wed, 31 Jan 2024 00:07:20 +0530</pubDate>
+      <guid>https://manoov.github.io/publication/quantum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>BCSE205L: Computer Architecture and Organization</title>
       <link>https://manoov.github.io/courses/_bcse205l-computer-architecture-and-organization/</link>
       <pubDate>Sat, 02 Dec 2023 10:19:05 +0530</pubDate>
@@ -299,7 +307,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-749861532&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-798243516&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -309,7 +317,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-749861532&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-798243516&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
