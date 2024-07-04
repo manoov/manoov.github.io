@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://manoov.github.io/tag/h5p/</loc>
+    <lastmod>2024-04-03T14:00:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://manoov.github.io/talk/hands-on-training-in-the-evaluation-process-using-moodle-lms/</loc>
     <lastmod>2024-04-03T14:00:00+05:30</lastmod>
     <changefreq>weekly</changefreq>
@@ -11,6 +15,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://manoov.github.io/event/</loc>
+    <lastmod>2024-04-03T14:00:00+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/student-engagement-strategies/</loc>
     <lastmod>2024-04-03T14:00:00+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
