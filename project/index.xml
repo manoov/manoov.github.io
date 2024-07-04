@@ -5,7 +5,7 @@
     <link>https://manoov.github.io/project/</link>
       <atom:link href="https://manoov.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jul 2023 18:51:29 +0530</lastBuildDate>
     <image>
       <url>https://manoov.github.io/media/icon_hu1f4c1de8b941112a95b13c381c2c09bc_15865_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,20 +13,11 @@
     </image>
     
     <item>
-      <title></title>
+      <title>Consultancy Project: Electronic Data Capture and Clinical Research Data Analytics</title>
       <link>https://manoov.github.io/project/redcap/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 04 Jul 2023 18:51:29 +0530</pubDate>
       <guid>https://manoov.github.io/project/redcap/</guid>
-      <description>&lt;p&gt;Consultancy Project: Electronic Data Capture and Clinical Research Data Analytics &lt;br /&gt; &lt;br&gt;
-&lt;b&gt;Description:&lt;/b&gt; &lt;br&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Assessed the requirements and infrastructure for REDCap implementation. &lt;br&gt;&lt;/li&gt;
-&lt;li&gt;Installed and configured REDCap software on a cloud-based server. &lt;br&gt;&lt;/li&gt;
-&lt;li&gt;Customized REDCap based on the specific needs and workflows.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;tags-deep-learning&#34;&gt;tags: &amp;ldquo;Deep Learning&amp;rdquo;&lt;/h2&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

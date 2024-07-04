@@ -50,6 +50,14 @@
     <lastmod>2024-01-31T00:07:20+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://manoov.github.io/project/redcap/</loc>
+    <lastmod>2023-07-04T18:51:29+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/project/</loc>
+    <lastmod>2023-07-04T18:51:29+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://manoov.github.io/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -181,13 +189,7 @@
     <loc>https://manoov.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://manoov.github.io/project/redcap/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://manoov.github.io/search/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://manoov.github.io/project/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

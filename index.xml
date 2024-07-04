@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>Consultancy Project: Electronic Data Capture and Clinical Research Data Analytics</title>
+      <link>https://manoov.github.io/project/redcap/</link>
+      <pubDate>Tue, 04 Jul 2023 18:51:29 +0530</pubDate>
+      <guid>https://manoov.github.io/project/redcap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Faculty Development Programme on &#34;Moodle for Teaching English&#34;</title>
       <link>https://manoov.github.io/talk/faculty-development-programme-on-moodle-for-teaching-english/</link>
       <pubDate>Wed, 13 Jul 2022 14:00:12 +0530</pubDate>
@@ -273,7 +281,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-243865971&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-958641372&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -283,7 +291,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-243865971&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-958641372&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -906,23 +914,6 @@ $$&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://manoov.github.io/admin/config.yml</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://manoov.github.io/project/redcap/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://manoov.github.io/project/redcap/</guid>
-      <description>&lt;p&gt;Consultancy Project: Electronic Data Capture and Clinical Research Data Analytics &lt;br /&gt; &lt;br&gt;
-&lt;b&gt;Description:&lt;/b&gt; &lt;br&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Assessed the requirements and infrastructure for REDCap implementation. &lt;br&gt;&lt;/li&gt;
-&lt;li&gt;Installed and configured REDCap software on a cloud-based server. &lt;br&gt;&lt;/li&gt;
-&lt;li&gt;Customized REDCap based on the specific needs and workflows.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;tags-deep-learning&#34;&gt;tags: &amp;ldquo;Deep Learning&amp;rdquo;&lt;/h2&gt;
-</description>
     </item>
     
     <item>
