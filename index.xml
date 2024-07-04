@@ -273,7 +273,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-829413657&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-259147638&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -283,7 +283,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-829413657&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-259147638&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -906,6 +906,21 @@ $$&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://manoov.github.io/admin/config.yml</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://manoov.github.io/project/redcap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://manoov.github.io/project/redcap/</guid>
+      <description>&lt;h1 id=&#34;consultancy-project-electronic-data-capture-and-clinical-research-data-analytics-br-&#34;&gt;Consultancy Project: Electronic Data Capture and Clinical Research Data Analytics &lt;br /&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Description:&lt;/b&gt; &lt;br /&gt;
+• Assessed the requirements and infrastructure for REDCap implementation.
+• Installed and configured REDCap software on a cloud-based server.
+• Customized REDCap based on the specific needs and workflows.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;tags-deep-learning&#34;&gt;tags: &amp;ldquo;Deep Learning&amp;rdquo;&lt;/h2&gt;
+</description>
     </item>
     
     <item>

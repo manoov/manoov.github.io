@@ -181,7 +181,13 @@
     <loc>https://manoov.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://manoov.github.io/project/redcap/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://manoov.github.io/search/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/project/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Academic</title>
+    <title>Projects | Manoov&#39;s Homepage</title>
     <link>https://manoov.github.io/project/</link>
       <atom:link href="https://manoov.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Jan 2023 01:49:36 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://manoov.github.io/media/icon_hu1f4c1de8b941112a95b13c381c2c09bc_15865_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,11 +13,18 @@
     </image>
     
     <item>
-      <title>SEED Grant 2022</title>
-      <link>https://manoov.github.io/project/consultancy-project-2023/</link>
-      <pubDate>Sat, 07 Jan 2023 01:49:36 +0530</pubDate>
-      <guid>https://manoov.github.io/project/consultancy-project-2023/</guid>
-      <description></description>
+      <title></title>
+      <link>https://manoov.github.io/project/redcap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://manoov.github.io/project/redcap/</guid>
+      <description>&lt;h1 id=&#34;consultancy-project-electronic-data-capture-and-clinical-research-data-analytics-br-&#34;&gt;Consultancy Project: Electronic Data Capture and Clinical Research Data Analytics &lt;br /&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;Description:&lt;/b&gt; &lt;br /&gt;
+• Assessed the requirements and infrastructure for REDCap implementation.
+• Installed and configured REDCap software on a cloud-based server.
+• Customized REDCap based on the specific needs and workflows.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;tags-deep-learning&#34;&gt;tags: &amp;ldquo;Deep Learning&amp;rdquo;&lt;/h2&gt;
+</description>
     </item>
     
   </channel>
