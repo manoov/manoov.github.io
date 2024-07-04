@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Hands-on Training in the Evaluation process using Moodle platform</title>
+      <link>https://manoov.github.io/talk/hands-on-training-in-the-evaluation-process-using-moodle-platform/</link>
+      <pubDate>Wed, 03 Apr 2024 14:00:00 +0530</pubDate>
+      <guid>https://manoov.github.io/talk/hands-on-training-in-the-evaluation-process-using-moodle-platform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Qiskit Simulation of CNOT Equivalent Circuits</title>
       <link>https://manoov.github.io/publication/quantum/</link>
       <pubDate>Wed, 31 Jan 2024 00:07:20 +0530</pubDate>
@@ -265,7 +273,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-395278146&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-814296357&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -275,7 +283,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-395278146&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-814296357&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
