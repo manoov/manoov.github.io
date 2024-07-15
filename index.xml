@@ -13,6 +13,53 @@
     </image>
     
     <item>
+      <title>BCSE313L Fundamentals of Fog and Edge Computing</title>
+      <link>https://manoov.github.io/courses/_bcse313l-fundamentals-of-fog-and-edge-computing/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://manoov.github.io/courses/_bcse313l-fundamentals-of-fog-and-edge-computing/</guid>
+      <description>&lt;p&gt;At the end of this course, student will be able to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Explore technologies behind the communication and management of fogs and edge
+resources.&lt;/li&gt;
+&lt;li&gt;Learn the techniques for storage and computation in fogs, edges, 5G and clouds.&lt;/li&gt;
+&lt;li&gt;Implement Internet of Everything (IoE) applications through fog computing architecture
+and use optimization techniques for the same.&lt;/li&gt;
+&lt;li&gt;Analyze the performance and issues of the applications developed using fog and edge
+architecture.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BCSE329L-Blockchain and Distributed Ledger Technology</title>
+      <link>https://manoov.github.io/courses/_bcse329l-blockchain-and-distributed-ledger-technology/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://manoov.github.io/courses/_bcse329l-blockchain-and-distributed-ledger-technology/</guid>
+      <description>&lt;p&gt;After completion of this course, the student shall be able to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Comprehend the functionality of blockchain.&lt;/li&gt;
+&lt;li&gt;Choose a blockchain implementation based on real time scenario.&lt;/li&gt;
+&lt;li&gt;Examine the techniques for anonymity preservation.&lt;/li&gt;
+&lt;li&gt;Determine the Blockchain challenges.&lt;/li&gt;
+&lt;li&gt;Identify the use cases of distributed ledger technology.&lt;/li&gt;
+&lt;li&gt;Evaluate alternative blockchain and their applicability.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>In-Person Scheduling</title>
+      <link>https://manoov.github.io/courses/_calendly-in-person/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://manoov.github.io/courses/_calendly-in-person/</guid>
+      <description>&lt;!-- Calendly inline widget begin --&gt;
+&lt;div class=&#34;calendly-inline-widget&#34; data-url=&#34;https://calendly.com/manoov/in-person-project-discussion&#34; style=&#34;min-width:320px;height:700px;&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://assets.calendly.com/assets/external/widget.js&#34; async&gt;&lt;/script&gt;
+&lt;!-- Calendly inline widget end --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Sample-LaTex-PhD-Presentation-Template</title>
       <link>https://manoov.github.io/post/sample-latex/</link>
       <pubDate>Fri, 05 Jul 2024 15:06:27 +0530</pubDate>
@@ -344,7 +391,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-749258136&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-392648157&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -354,7 +401,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-749258136&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-392648157&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
