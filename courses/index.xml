@@ -48,15 +48,53 @@ architecture.&lt;/li&gt;
     </item>
     
     <item>
-      <title>In-Person Scheduling</title>
-      <link>https://manoov.github.io/courses/_calendly-in-person/</link>
+      <title>In-Person Meeting</title>
+      <link>https://manoov.github.io/courses/_in-person-meeting/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://manoov.github.io/courses/_calendly-in-person/</guid>
+      <guid>https://manoov.github.io/courses/_in-person-meeting/</guid>
       <description>&lt;p&gt;Discuss with your team members and book a time-slot for project discussion:-&lt;/p&gt;
 &lt;!-- Calendly inline widget begin --&gt;
 &lt;div class=&#34;calendly-inline-widget&#34; data-url=&#34;https://calendly.com/manoov/in-person-project-discussion&#34; style=&#34;min-width:320px;height:700px;&#34;&gt;&lt;/div&gt;
 &lt;script type=&#34;text/javascript&#34; src=&#34;https://assets.calendly.com/assets/external/widget.js&#34; async&gt;&lt;/script&gt;
 &lt;!-- Calendly inline widget end --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Project Collaboration using GitHub</title>
+      <link>https://manoov.github.io/courses/instructions/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://manoov.github.io/courses/instructions/</guid>
+      <description>&lt;p&gt;Initial steps for your team to be able to collaborate effectively with your classmates and me on your project.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Create a Private Repository
+Go to your GitHub account and navigate to the &amp;ldquo;Repositories&amp;rdquo; section.
+Click on the &amp;ldquo;New repository&amp;rdquo; button.
+Give your repository a descriptive name that reflects your project.
+Select the &amp;ldquo;Private&amp;rdquo; option to keep your project code and files secure.
+Click on &amp;ldquo;Create repository&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Add Team Members (Optional)
+If you have team members working on the project with you, you can add them to your repository to grant them access to the code.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In your repository settings, navigate to the &amp;ldquo;Collaborators&amp;rdquo; section.
+Enter the username of your team member (e.g., [email address removed]).
+Select the access level you want to grant them (e.g., &amp;ldquo;Write&amp;rdquo; for full access).
+Click on &amp;ldquo;Invite collaborator&amp;rdquo;.
+Repeat this process for all your team members.
+Note: Make sure your teammates have a GitHub account before inviting them.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Add me as a Collaborator
+To provide guidance and monitor your project progress, please add me (GitHub Username: &lt;a href=&#34;mailto:manoov.r@vit.ac.in&#34;&gt;manoov.r@vit.ac.in&lt;/a&gt;) as a collaborator on your repository with &amp;ldquo;Write&amp;rdquo; access. This will allow me to review your code, answer questions, and offer suggestions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Learn About GitHub Projects
+For effective collaboration and project management, utilizing GitHub Projects is highly recommended. It allows you to create boards, organize tasks, track progress, and share updates with your team.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Learn more about GitHub Projects:&lt;/p&gt;
+&lt;p&gt;Link: &lt;a href=&#34;https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Note: Regularly pushing your project updates to the repository will ensure everyone stays on the same page and keeps the project moving forward.&lt;/p&gt;
 </description>
     </item>
     
