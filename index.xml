@@ -48,6 +48,19 @@ architecture.&lt;/li&gt;
     </item>
     
     <item>
+      <title>In-Person Scheduling</title>
+      <link>https://manoov.github.io/courses/_calendly-in-person/</link>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://manoov.github.io/courses/_calendly-in-person/</guid>
+      <description>&lt;p&gt;Discuss with your team members and book a time-slot for project discussion:-&lt;/p&gt;
+&lt;!-- Calendly inline widget begin --&gt;
+&lt;div class=&#34;calendly-inline-widget&#34; data-url=&#34;https://calendly.com/manoov/in-person-project-discussion&#34; style=&#34;min-width:320px;height:700px;&#34;&gt;&lt;/div&gt;
+&lt;script type=&#34;text/javascript&#34; src=&#34;https://assets.calendly.com/assets/external/widget.js&#34; async&gt;&lt;/script&gt;
+&lt;!-- Calendly inline widget end --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Sample-LaTex-PhD-Presentation-Template</title>
       <link>https://manoov.github.io/post/sample-latex/</link>
       <pubDate>Fri, 05 Jul 2024 15:06:27 +0530</pubDate>
@@ -379,7 +392,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-652841973&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-563721489&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -389,7 +402,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-652841973&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-563721489&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1020,19 +1033,6 @@ $$&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://manoov.github.io/search/</guid>
       <description>&lt;p&gt;Have a question you want answered? Is there something you would like me to write about? Just use the form below to reach out to me.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>In-Person Scheduling</title>
-      <link>https://manoov.github.io/courses/_calendly-in-person/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://manoov.github.io/courses/_calendly-in-person/</guid>
-      <description>&lt;p&gt;Discuss with your team members and book a time-slot for project discussion:-&lt;/p&gt;
-&lt;!-- Calendly inline widget begin --&gt;
-&lt;div class=&#34;calendly-inline-widget&#34; data-url=&#34;https://calendly.com/manoov/in-person-project-discussion&#34; style=&#34;min-width:320px;height:700px;&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;text/javascript&#34; src=&#34;https://assets.calendly.com/assets/external/widget.js&#34; async&gt;&lt;/script&gt;
-&lt;!-- Calendly inline widget end --&gt;
 </description>
     </item>
     
