@@ -65,7 +65,7 @@ architecture.&lt;/li&gt;
       <link>https://manoov.github.io/courses/instructions/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://manoov.github.io/courses/instructions/</guid>
-      <description>&lt;p&gt;Initial steps for your team to be able to collaborate effectively with your classmates and me on your project.&lt;/p&gt;
+      <description>&lt;p&gt;Follow these initial steps to set up your team for project collaboration on GitHub.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Create a Private Repository
 Go to your GitHub account and navigate to the &amp;ldquo;Repositories&amp;rdquo; section.
@@ -77,24 +77,36 @@ Click on &amp;ldquo;Create repository&amp;rdquo;.&lt;/li&gt;
 If you have team members working on the project with you, you can add them to your repository to grant them access to the code.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;In your repository settings, navigate to the &amp;ldquo;Collaborators&amp;rdquo; section.
-Enter the username of your team member (e.g., [email address removed]).
+Enter the username of your team member.
 Select the access level you want to grant them (e.g., &amp;ldquo;Write&amp;rdquo; for full access).
 Click on &amp;ldquo;Invite collaborator&amp;rdquo;.
-Repeat this process for all your team members.
-Note: Make sure your teammates have a GitHub account before inviting them.&lt;/p&gt;
+Repeat this process for all your team members.&lt;/p&gt;
 &lt;ol start=&#34;3&#34;&gt;
 &lt;li&gt;
 &lt;p&gt;Add me as a Collaborator
-To provide guidance and monitor your project progress, please add me (GitHub Username: &lt;a href=&#34;mailto:manoov.r@vit.ac.in&#34;&gt;manoov.r@vit.ac.in&lt;/a&gt;) as a collaborator on your repository with &amp;ldquo;Write&amp;rdquo; access. This will allow me to review your code, answer questions, and offer suggestions.&lt;/p&gt;
+To provide guidance and monitor your project progress, please add me (GitHub Username: &lt;a href=&#34;mailto:manoov.r@vit.ac.in&#34;&gt;manoov.r@vit.ac.in&lt;/a&gt;) as a collaborator on your repository with &amp;ldquo;Write&amp;rdquo; access. This will allow me to review your code, documentation, answer questions, and offer suggestions.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Learn About GitHub Projects
-For effective collaboration and project management, utilizing GitHub Projects is highly recommended. It allows you to create boards, organize tasks, track progress, and share updates with your team.&lt;/p&gt;
+&lt;p&gt;Synchronizing with Team and Setting Goals using GitHub Issues:&lt;/p&gt;
 &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Create Issues: Break down your project into smaller, manageable tasks using GitHub Issues. Each issue should have a clear title, description, and assignee (if applicable).&lt;/p&gt;
+&lt;p&gt;Utilize Task Lists: Within each issue, you can create a task list using Markdown. This allows you to further break down complex tasks into smaller, actionable steps.&lt;/p&gt;
+&lt;p&gt;Assign and Track Tasks: Assign tasks to specific team members and use labels to categorize them (e.g., &amp;ldquo;Bug,&amp;rdquo; &amp;ldquo;In Progress,&amp;rdquo; &amp;ldquo;To Do&amp;rdquo;). This helps visualize the overall project progress and individual responsibilities.&lt;/p&gt;
+&lt;p&gt;Discussion and Collaboration: Use the comment section within each issue to discuss tasks, ask questions, and share updates with your team.&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Learn About GitHub Projects
+For effective collaboration and project management, &amp;lsquo;GitHub Projects&amp;rsquo; is highly recommended. It allows you to create boards, organize tasks, track progress, and share updates with your team.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Learn more about GitHub Projects:&lt;/p&gt;
 &lt;p&gt;Link: &lt;a href=&#34;https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Note: Regularly pushing your project updates to the repository will ensure everyone stays on the same page and keeps the project moving forward.&lt;/p&gt;
+&lt;p&gt;Note:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Decide how you and your team will share information and ideas. Options include using a note-taking app like (&lt;a href=&#34;https://www.zettlr.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zettlr&lt;/a&gt;, &lt;a href=&#34;https://obsidian.md/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Obsidian&lt;/a&gt;) or a reference management tool like &lt;a href=&#34;https://www.mendeley.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mendeley&lt;/a&gt; (useful for research projects).
+Sync Your Obsidian Vault for Free with Github: &lt;a href=&#34;https://curtismchale.ca/2022/05/18/sync-your-obsidian-vault-for-free-with-github/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://curtismchale.ca/2022/05/18/sync-your-obsidian-vault-for-free-with-github/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Explore an optional step to learn about DevOps principles using &lt;a href=&#34;https://docs.github.com/en/actions/examples&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Actions&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Regularly pushing your project updates to the repository will ensure everyone stays on the same page and keeps the project moving forward.&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
