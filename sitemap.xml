@@ -10,10 +10,6 @@
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://manoov.github.io/courses/_calendly-in-person/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://manoov.github.io/tag/latex/</loc>
     <lastmod>2024-07-05T15:06:27+05:30</lastmod>
     <changefreq>weekly</changefreq>
@@ -218,6 +214,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://manoov.github.io/search/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/courses/_calendly-in-person/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

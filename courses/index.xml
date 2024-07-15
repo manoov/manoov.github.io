@@ -50,9 +50,10 @@ architecture.&lt;/li&gt;
     <item>
       <title>In-Person Scheduling</title>
       <link>https://manoov.github.io/courses/_calendly-in-person/</link>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://manoov.github.io/courses/_calendly-in-person/</guid>
-      <description>&lt;!-- Calendly inline widget begin --&gt;
+      <description>&lt;p&gt;Discuss with your team members and book a time-slot for project discussion:-&lt;/p&gt;
+&lt;!-- Calendly inline widget begin --&gt;
 &lt;div class=&#34;calendly-inline-widget&#34; data-url=&#34;https://calendly.com/manoov/in-person-project-discussion&#34; style=&#34;min-width:320px;height:700px;&#34;&gt;&lt;/div&gt;
 &lt;script type=&#34;text/javascript&#34; src=&#34;https://assets.calendly.com/assets/external/widget.js&#34; async&gt;&lt;/script&gt;
 &lt;!-- Calendly inline widget end --&gt;
