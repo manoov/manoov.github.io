@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>A Novel RoPE-Enhanced Informer Approach for Accurate Remaining Useful Life Prediction of Lithium-Ion Batteries</title>
+      <link>https://manoov.github.io/publication/lithium/</link>
+      <pubDate>Tue, 25 Mar 2025 22:11:43 +0530</pubDate>
+      <guid>https://manoov.github.io/publication/lithium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>BCSE313L Fundamentals of Fog and Edge Computing</title>
       <link>https://manoov.github.io/courses/_bcse313l-fundamentals-of-fog-and-edge-computing/</link>
       <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
@@ -442,7 +450,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-437598261&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-923156874&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -452,7 +460,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-437598261&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-923156874&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

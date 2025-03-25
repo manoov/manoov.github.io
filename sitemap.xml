@@ -2,6 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://manoov.github.io/publication-type/1/</loc>
+    <lastmod>2025-03-25T22:11:43+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/publication/lithium/</loc>
+    <lastmod>2025-03-25T22:11:43+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/battery-management/</loc>
+    <lastmod>2025-03-25T22:11:43+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/electric-vehicles/</loc>
+    <lastmod>2025-03-25T22:11:43+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/lithium-ion-batteries/</loc>
+    <lastmod>2025-03-25T22:11:43+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/operational-lifespan/</loc>
+    <lastmod>2025-03-25T22:11:43+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/publication_types/</loc>
+    <lastmod>2025-03-25T22:11:43+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/publication/</loc>
+    <lastmod>2025-03-25T22:11:43+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/rotary-positional-embedding/</loc>
+    <lastmod>2025-03-25T22:11:43+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/rul-prediction/</loc>
+    <lastmod>2025-03-25T22:11:43+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tags/</loc>
+    <lastmod>2025-03-25T22:11:43+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://manoov.github.io/courses/_bcse313l-fundamentals-of-fog-and-edge-computing/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -30,10 +74,6 @@
     <lastmod>2024-07-05T15:06:27+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://manoov.github.io/tags/</loc>
-    <lastmod>2024-07-05T15:06:27+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://manoov.github.io/tag/h5p/</loc>
     <lastmod>2024-04-03T14:00:00+05:30</lastmod>
     <changefreq>weekly</changefreq>
@@ -54,15 +94,11 @@
     <lastmod>2024-04-03T14:00:00+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://manoov.github.io/publication-type/1/</loc>
+    <loc>https://manoov.github.io/tag/maximally-entangled-states/</loc>
     <lastmod>2024-01-31T00:07:20+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://manoov.github.io/publication_types/</loc>
-    <lastmod>2024-01-31T00:07:20+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://manoov.github.io/publication/</loc>
+    <loc>https://manoov.github.io/tag/qiskit/</loc>
     <lastmod>2024-01-31T00:07:20+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -75,6 +111,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://manoov.github.io/tag/quantum-entanglement/</loc>
+    <lastmod>2024-01-31T00:07:20+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/two-qubit-operators/</loc>
     <lastmod>2024-01-31T00:07:20+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
