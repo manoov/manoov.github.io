@@ -13,10 +13,55 @@
     </image>
     
     <item>
+      <title>A Multi-Agent Framework for Zone-Based Last-Mile Delivery Optimization</title>
+      <link>https://manoov.github.io/publication/resilientdesign2025/</link>
+      <pubDate>Mon, 11 Aug 2025 23:25:01 +0530</pubDate>
+      <guid>https://manoov.github.io/publication/resilientdesign2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BCSE331L Exploratory Data Analysis</title>
+      <link>https://manoov.github.io/courses/_bcse331l-exploratory-data-analysis/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://manoov.github.io/courses/_bcse331l-exploratory-data-analysis/</guid>
+      <description>&lt;p&gt;At the end of this course, student will be able to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Handle missing data in the real world data sets by choosing appropriate
+methods.&lt;/li&gt;
+&lt;li&gt;Summarize the data using basic statistics. Visualize the data using basic
+graphs and plots.&lt;/li&gt;
+&lt;li&gt;Identify the outliers if any in the data set.&lt;/li&gt;
+&lt;li&gt;Choose appropriate feature selection and dimensionality reduction.&lt;/li&gt;
+&lt;li&gt;Apply Techniques for handling multi-dimensional data.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MDI3002 Foundations of Data Science</title>
+      <link>https://manoov.github.io/courses/_mdi3002-foundations-of-data-science/</link>
+      <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://manoov.github.io/courses/_mdi3002-foundations-of-data-science/</guid>
+      <description>&lt;p&gt;At the end of this course, student will be able to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Ability to obtain fundamental knowledge on data science.&lt;/li&gt;
+&lt;li&gt;Demonstrate proficiency in statistical analysis of data.&lt;/li&gt;
+&lt;li&gt;Develop mathematical knowledge and study various optimization techniques to
+perform data science operations.&lt;/li&gt;
+&lt;li&gt;Handle various types of data and visualize them using through programming for
+knowledge representation.&lt;/li&gt;
+&lt;li&gt;Demonstrate numerous open source data science tools to solve real-world problems
+through industrial case studies.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A Novel RoPE-Enhanced Informer Approach for Accurate Remaining Useful Life Prediction of Lithium-Ion Batteries</title>
-      <link>https://manoov.github.io/publication/lithium/</link>
-      <pubDate>Tue, 25 Mar 2025 22:11:43 +0530</pubDate>
-      <guid>https://manoov.github.io/publication/lithium/</guid>
+      <link>https://manoov.github.io/publication/lithium2024/</link>
+      <pubDate>Tue, 11 Mar 2025 23:08:04 +0530</pubDate>
+      <guid>https://manoov.github.io/publication/lithium2024/</guid>
       <description></description>
     </item>
     
@@ -51,69 +96,6 @@ architecture.&lt;/li&gt;
 &lt;li&gt;Determine the Blockchain challenges.&lt;/li&gt;
 &lt;li&gt;Identify the use cases of distributed ledger technology.&lt;/li&gt;
 &lt;li&gt;Evaluate alternative blockchain and their applicability.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>In-Person Meeting</title>
-      <link>https://manoov.github.io/courses/_in-person-meeting/</link>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://manoov.github.io/courses/_in-person-meeting/</guid>
-      <description>&lt;p&gt;Discuss with your team members and book a time-slot for project discussion:-&lt;/p&gt;
-&lt;!-- Calendly inline widget begin --&gt;
-&lt;div class=&#34;calendly-inline-widget&#34; data-url=&#34;https://calendly.com/manoov/in-person-project-discussion&#34; style=&#34;min-width:320px;height:700px;&#34;&gt;&lt;/div&gt;
-&lt;script type=&#34;text/javascript&#34; src=&#34;https://assets.calendly.com/assets/external/widget.js&#34; async&gt;&lt;/script&gt;
-&lt;!-- Calendly inline widget end --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Project Collaboration using GitHub</title>
-      <link>https://manoov.github.io/courses/instructions/</link>
-      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://manoov.github.io/courses/instructions/</guid>
-      <description>&lt;p&gt;Follow these initial steps to set up your team for project collaboration on GitHub.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Create a Private Repository
-Go to your GitHub account and navigate to the &amp;ldquo;Repositories&amp;rdquo; section.
-Click on the &amp;ldquo;New repository&amp;rdquo; button.
-Give your repository a descriptive name that reflects your project.
-Select the &amp;ldquo;Private&amp;rdquo; option to keep your project code and files secure.
-Click on &amp;ldquo;Create repository&amp;rdquo;.&lt;/li&gt;
-&lt;li&gt;Add Team Members (Optional)
-If you have team members working on the project with you, you can add them to your repository to grant them access to the code.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;In your repository settings, navigate to the &amp;ldquo;Collaborators&amp;rdquo; section.
-Enter the username of your team member.
-Select the access level you want to grant them (e.g., &amp;ldquo;Write&amp;rdquo; for full access).
-Click on &amp;ldquo;Invite collaborator&amp;rdquo;.
-Repeat this process for all your team members.&lt;/p&gt;
-&lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;
-&lt;p&gt;Add me as a Collaborator
-To provide guidance and monitor your project progress, please add me (GitHub Username: &lt;a href=&#34;mailto:manoov.r@vit.ac.in&#34;&gt;manoov.r@vit.ac.in&lt;/a&gt;) as a collaborator on your repository with &amp;ldquo;Write&amp;rdquo; access. This will allow me to review your code, documentation, answer questions, and offer suggestions.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Synchronizing with Team and Setting Goals using GitHub Issues:&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Create Issues: Break down your project into smaller, manageable tasks using GitHub Issues. Each issue should have a clear title, description, and assignee (if applicable).&lt;/p&gt;
-&lt;p&gt;Utilize Task Lists: Within each issue, you can create a task list using Markdown. This allows you to further break down complex tasks into smaller, actionable steps.&lt;/p&gt;
-&lt;p&gt;Assign and Track Tasks: Assign tasks to specific team members and use labels to categorize them (e.g., &amp;ldquo;Bug,&amp;rdquo; &amp;ldquo;In Progress,&amp;rdquo; &amp;ldquo;To Do&amp;rdquo;). This helps visualize the overall project progress and individual responsibilities.&lt;/p&gt;
-&lt;p&gt;Discussion and Collaboration: Use the comment section within each issue to discuss tasks, ask questions, and share updates with your team.&lt;/p&gt;
-&lt;ol start=&#34;5&#34;&gt;
-&lt;li&gt;Learn About GitHub Projects
-For effective collaboration and project management, &amp;lsquo;GitHub Projects&amp;rsquo; is highly recommended. It allows you to create boards, organize tasks, track progress, and share updates with your team.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Learn more about GitHub Projects:&lt;/p&gt;
-&lt;p&gt;Link: &lt;a href=&#34;https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Note:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Decide how you and your team will share information and ideas. Options include using a note-taking app like (&lt;a href=&#34;https://www.zettlr.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zettlr&lt;/a&gt;, &lt;a href=&#34;https://obsidian.md/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Obsidian&lt;/a&gt;) or a reference management tool like &lt;a href=&#34;https://www.mendeley.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mendeley&lt;/a&gt; (useful for research projects).
-Sync Your Obsidian Vault for Free with Github: &lt;a href=&#34;https://curtismchale.ca/2022/05/18/sync-your-obsidian-vault-for-free-with-github/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://curtismchale.ca/2022/05/18/sync-your-obsidian-vault-for-free-with-github/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Explore an optional step to learn about DevOps principles using &lt;a href=&#34;https://docs.github.com/en/actions/examples&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub Actions&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;Regularly pushing your project updates to the repository will ensure everyone stays on the same page and keeps the project moving forward.&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>
@@ -190,18 +172,18 @@ Keep your local copy synced with the latest updates by forking the project on Gi
     </item>
     
     <item>
-      <title>Qiskit Simulation of CNOT Equivalent Circuits</title>
-      <link>https://manoov.github.io/publication/quantum/</link>
-      <pubDate>Wed, 31 Jan 2024 00:07:20 +0530</pubDate>
-      <guid>https://manoov.github.io/publication/quantum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Consultancy Project: Electronic Data Capture and Clinical Research Data Analytics</title>
       <link>https://manoov.github.io/project/redcap/</link>
       <pubDate>Tue, 04 Jul 2023 18:51:29 +0530</pubDate>
       <guid>https://manoov.github.io/project/redcap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qiskit Simulation of CNOT Equivalent Circuits</title>
+      <link>https://manoov.github.io/publication/quantum/</link>
+      <pubDate>Tue, 31 Jan 2023 00:07:20 +0530</pubDate>
+      <guid>https://manoov.github.io/publication/quantum/</guid>
       <description></description>
     </item>
     
@@ -450,7 +432,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-923156874&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-963485217&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -460,7 +442,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-923156874&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-963485217&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

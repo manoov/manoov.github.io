@@ -3,47 +3,95 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://manoov.github.io/publication-type/1/</loc>
-    <lastmod>2025-03-25T22:11:43+05:30</lastmod>
+    <lastmod>2025-08-11T23:25:01+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://manoov.github.io/publication/lithium/</loc>
-    <lastmod>2025-03-25T22:11:43+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://manoov.github.io/tag/battery-management/</loc>
-    <lastmod>2025-03-25T22:11:43+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://manoov.github.io/tag/electric-vehicles/</loc>
-    <lastmod>2025-03-25T22:11:43+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://manoov.github.io/tag/lithium-ion-batteries/</loc>
-    <lastmod>2025-03-25T22:11:43+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://manoov.github.io/tag/operational-lifespan/</loc>
-    <lastmod>2025-03-25T22:11:43+05:30</lastmod>
+    <loc>https://manoov.github.io/publication/resilientdesign2025/</loc>
+    <lastmod>2025-08-11T23:25:01+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://manoov.github.io/publication_types/</loc>
-    <lastmod>2025-03-25T22:11:43+05:30</lastmod>
+    <lastmod>2025-08-11T23:25:01+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://manoov.github.io/publication/</loc>
-    <lastmod>2025-03-25T22:11:43+05:30</lastmod>
+    <lastmod>2025-08-11T23:25:01+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/courses/_bcse331l-exploratory-data-analysis/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/courses/_mdi3002-foundations-of-data-science/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/publication/lithium2024/</loc>
+    <lastmod>2025-03-11T23:08:04+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/accuracy/</loc>
+    <lastmod>2025-03-11T23:08:04+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/adaptation-models/</loc>
+    <lastmod>2025-03-11T23:08:04+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/attention-mechanisms/</loc>
+    <lastmod>2025-03-11T23:08:04+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/battery-management-systems/</loc>
+    <lastmod>2025-03-11T23:08:04+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/computational-modeling/</loc>
+    <lastmod>2025-03-11T23:08:04+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/deep-learning/</loc>
+    <lastmod>2025-03-11T23:08:04+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/informer-model/</loc>
+    <lastmod>2025-03-11T23:08:04+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/lithium-ion-batteries/</loc>
+    <lastmod>2025-03-11T23:08:04+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/predictive-maintenance/</loc>
+    <lastmod>2025-03-11T23:08:04+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/predictive-models/</loc>
+    <lastmod>2025-03-11T23:08:04+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/real-time-systems/</loc>
+    <lastmod>2025-03-11T23:08:04+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/remaining-useful-life/</loc>
+    <lastmod>2025-03-11T23:08:04+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/robustness/</loc>
+    <lastmod>2025-03-11T23:08:04+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://manoov.github.io/tag/rotary-positional-embedding/</loc>
-    <lastmod>2025-03-25T22:11:43+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://manoov.github.io/tag/rul-prediction/</loc>
-    <lastmod>2025-03-25T22:11:43+05:30</lastmod>
+    <lastmod>2025-03-11T23:08:04+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://manoov.github.io/tags/</loc>
-    <lastmod>2025-03-25T22:11:43+05:30</lastmod>
+    <lastmod>2025-03-11T23:08:04+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/time-series-analysis/</loc>
+    <lastmod>2025-03-11T23:08:04+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://manoov.github.io/courses/_bcse313l-fundamentals-of-fog-and-edge-computing/</loc>
@@ -51,14 +99,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://manoov.github.io/courses/_bcse329l-blockchain-and-distributed-ledger-technology/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://manoov.github.io/courses/_in-person-meeting/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://manoov.github.io/courses/instructions/</loc>
     <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -94,30 +134,6 @@
     <lastmod>2024-04-03T14:00:00+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://manoov.github.io/tag/maximally-entangled-states/</loc>
-    <lastmod>2024-01-31T00:07:20+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://manoov.github.io/tag/qiskit/</loc>
-    <lastmod>2024-01-31T00:07:20+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://manoov.github.io/publication/quantum/</loc>
-    <lastmod>2024-01-31T00:07:20+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://manoov.github.io/tag/quantum-computing/</loc>
-    <lastmod>2024-01-31T00:07:20+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://manoov.github.io/tag/quantum-entanglement/</loc>
-    <lastmod>2024-01-31T00:07:20+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://manoov.github.io/tag/two-qubit-operators/</loc>
-    <lastmod>2024-01-31T00:07:20+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://manoov.github.io/tag/consultancy/</loc>
     <lastmod>2023-07-04T18:51:29+05:30</lastmod>
     <changefreq>weekly</changefreq>
@@ -128,6 +144,18 @@
   </url><url>
     <loc>https://manoov.github.io/project/</loc>
     <lastmod>2023-07-04T18:51:29+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/publication/quantum/</loc>
+    <lastmod>2023-01-31T00:07:20+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/quantum-computing/</loc>
+    <lastmod>2023-01-31T00:07:20+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/tag/quantum-entanglement/</loc>
+    <lastmod>2023-01-31T00:07:20+05:30</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://manoov.github.io/</loc>

@@ -5,7 +5,7 @@
     <link>https://manoov.github.io/publication/</link>
       <atom:link href="https://manoov.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Mar 2025 22:11:43 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Aug 2025 23:25:01 +0530</lastBuildDate>
     <image>
       <url>https://manoov.github.io/media/icon_hu1f4c1de8b941112a95b13c381c2c09bc_15865_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,17 +13,25 @@
     </image>
     
     <item>
+      <title>A Multi-Agent Framework for Zone-Based Last-Mile Delivery Optimization</title>
+      <link>https://manoov.github.io/publication/resilientdesign2025/</link>
+      <pubDate>Mon, 11 Aug 2025 23:25:01 +0530</pubDate>
+      <guid>https://manoov.github.io/publication/resilientdesign2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Novel RoPE-Enhanced Informer Approach for Accurate Remaining Useful Life Prediction of Lithium-Ion Batteries</title>
-      <link>https://manoov.github.io/publication/lithium/</link>
-      <pubDate>Tue, 25 Mar 2025 22:11:43 +0530</pubDate>
-      <guid>https://manoov.github.io/publication/lithium/</guid>
+      <link>https://manoov.github.io/publication/lithium2024/</link>
+      <pubDate>Tue, 11 Mar 2025 23:08:04 +0530</pubDate>
+      <guid>https://manoov.github.io/publication/lithium2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Qiskit Simulation of CNOT Equivalent Circuits</title>
       <link>https://manoov.github.io/publication/quantum/</link>
-      <pubDate>Wed, 31 Jan 2024 00:07:20 +0530</pubDate>
+      <pubDate>Tue, 31 Jan 2023 00:07:20 +0530</pubDate>
       <guid>https://manoov.github.io/publication/quantum/</guid>
       <description></description>
     </item>
