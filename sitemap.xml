@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://manoov.github.io/meeting/</loc>
+    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/meeting/book/</loc>
+    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://manoov.github.io/publication-type/1/</loc>
     <lastmod>2025-08-11T23:25:01+05:30</lastmod>
     <changefreq>weekly</changefreq>
@@ -16,14 +24,6 @@
   </url><url>
     <loc>https://manoov.github.io/publication/</loc>
     <lastmod>2025-08-11T23:25:01+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://manoov.github.io/courses/_bcse331l-exploratory-data-analysis/</loc>
-    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://manoov.github.io/courses/_mdi3002-foundations-of-data-science/</loc>
-    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://manoov.github.io/publication/lithium2024/</loc>
@@ -92,14 +92,6 @@
   </url><url>
     <loc>https://manoov.github.io/tag/time-series-analysis/</loc>
     <lastmod>2025-03-11T23:08:04+05:30</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://manoov.github.io/courses/_bcse313l-fundamentals-of-fog-and-edge-computing/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://manoov.github.io/courses/_bcse329l-blockchain-and-distributed-ledger-technology/</loc>
-    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://manoov.github.io/tag/latex/</loc>
@@ -264,10 +256,6 @@
   </url><url>
     <loc>https://manoov.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://manoov.github.io/courses/</loc>
-    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://manoov.github.io/publication/dheeraj2017/</loc>
