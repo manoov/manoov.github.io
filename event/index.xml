@@ -5,12 +5,20 @@
     <link>https://manoov.github.io/event/</link>
       <atom:link href="https://manoov.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Apr 2024 14:00:00 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Sep 2025 11:00:00 +0530</lastBuildDate>
     <image>
       <url>https://manoov.github.io/media/icon_hu1f4c1de8b941112a95b13c381c2c09bc_15865_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://manoov.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Introduction to Machine Learning and its Applications in Ground Water Resources</title>
+      <link>https://manoov.github.io/talk/introduction-to-machine-learning-and-its-applications-in-ground-water-resources/</link>
+      <pubDate>Fri, 05 Sep 2025 11:00:00 +0530</pubDate>
+      <guid>https://manoov.github.io/talk/introduction-to-machine-learning-and-its-applications-in-ground-water-resources/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hands-on Training in the Evaluation process using Moodle LMS</title>

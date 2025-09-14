@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Introduction to Machine Learning and its Applications in Ground Water Resources</title>
+      <link>https://manoov.github.io/talk/introduction-to-machine-learning-and-its-applications-in-ground-water-resources/</link>
+      <pubDate>Fri, 05 Sep 2025 11:00:00 +0530</pubDate>
+      <guid>https://manoov.github.io/talk/introduction-to-machine-learning-and-its-applications-in-ground-water-resources/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Multi-Agent Framework for Zone-Based Last-Mile Delivery Optimization</title>
       <link>https://manoov.github.io/publication/resilientdesign2025/</link>
       <pubDate>Mon, 11 Aug 2025 23:25:01 +0530</pubDate>
@@ -360,7 +368,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-726845391&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-486173952&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -370,7 +378,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-726845391&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-486173952&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
