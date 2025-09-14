@@ -6,10 +6,6 @@
     <lastmod>2025-09-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://manoov.github.io/meeting/book/</loc>
-    <lastmod>2025-09-14T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://manoov.github.io/publication-type/1/</loc>
     <lastmod>2025-08-11T23:25:01+05:30</lastmod>
     <changefreq>weekly</changefreq>
@@ -24,6 +20,14 @@
   </url><url>
     <loc>https://manoov.github.io/publication/</loc>
     <lastmod>2025-08-11T23:25:01+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/courses/eda/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/courses/fds/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://manoov.github.io/publication/lithium2024/</loc>
@@ -92,6 +96,14 @@
   </url><url>
     <loc>https://manoov.github.io/tag/time-series-analysis/</loc>
     <lastmod>2025-03-11T23:08:04+05:30</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/courses/fog/</loc>
+    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/courses/blockchain/</loc>
+    <lastmod>2024-07-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://manoov.github.io/tag/latex/</loc>
@@ -256,6 +268,10 @@
   </url><url>
     <loc>https://manoov.github.io/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://manoov.github.io/courses/</loc>
+    <lastmod>2018-06-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://manoov.github.io/publication/dheeraj2017/</loc>

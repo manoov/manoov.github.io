@@ -13,15 +13,6 @@
     </image>
     
     <item>
-      <title>Book Your Appointment</title>
-      <link>https://manoov.github.io/meeting/book/</link>
-      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://manoov.github.io/meeting/book/</guid>
-      <description>&lt;!-- Replace the URL in src with your actual Calendly link --&gt;
-&lt;iframe src=&#34;https://calendly.com/manoov/in-person-project-discussion&#34; width=&#34;100%&#34; height=&#34;700&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;</description>
-    </item>
-    
-    <item>
       <title>A Multi-Agent Framework for Zone-Based Last-Mile Delivery Optimization</title>
       <link>https://manoov.github.io/publication/resilientdesign2025/</link>
       <pubDate>Mon, 11 Aug 2025 23:25:01 +0530</pubDate>
@@ -369,7 +360,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-864395172&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-726845391&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -379,7 +370,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-864395172&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-726845391&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

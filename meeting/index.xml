@@ -12,14 +12,5 @@
       <link>https://manoov.github.io/meeting/</link>
     </image>
     
-    <item>
-      <title>Book Your Appointment</title>
-      <link>https://manoov.github.io/meeting/book/</link>
-      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://manoov.github.io/meeting/book/</guid>
-      <description>&lt;!-- Replace the URL in src with your actual Calendly link --&gt;
-&lt;iframe src=&#34;https://calendly.com/manoov/in-person-project-discussion&#34; width=&#34;100%&#34; height=&#34;700&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;</description>
-    </item>
-    
   </channel>
 </rss>
