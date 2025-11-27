@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Manoov&#39;s Homepage</title>
+    <link>https://manoov.github.io/project/</link>
+      <atom:link href="https://manoov.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jul 2023 18:51:29 +0530</lastBuildDate>
+    <image>
+      <url>https://manoov.github.io/media/icon_hu1f4c1de8b941112a95b13c381c2c09bc_15865_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://manoov.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Consultancy Project: Electronic Data Capture and Clinical Research Data Analytics</title>
+      <link>https://manoov.github.io/project/redcap/</link>
+      <pubDate>Tue, 04 Jul 2023 18:51:29 +0530</pubDate>
+      <guid>https://manoov.github.io/project/redcap/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

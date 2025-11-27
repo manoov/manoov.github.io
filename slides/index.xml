@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides | Manoov&#39;s Homepage</title>
+    <link>https://manoov.github.io/slides/</link>
+      <atom:link href="https://manoov.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
+    <description>Slides</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Moodle Deep Dive (Course Design with the student in mind)</title>
+      <link>https://manoov.github.io/slides/moodle_fop-2022/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://manoov.github.io/slides/moodle_fop-2022/</guid>
+      <description>&lt;h1 id=&#34;moodle-deep-dive--course-design-with-the-student-in-mind&#34;&gt;Moodle Deep Dive - Course Design with the student in mind&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://vit.ac.in/centers/asc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Staff College of VIT Vellore)&lt;/a&gt; | &lt;a href=&#34;https://vit.ac.in/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vellore Institute  of  Technology&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;outline-of-this-talk&#34;&gt;Outline of this talk&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;About Moodle LMS.&lt;/li&gt;
+&lt;li&gt;Course Design for formative/summative assessments.&lt;/li&gt;
+&lt;li&gt;Strategies to effectively Use Moodle to teach, assess and communicate with your learners.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;about-moodle-lms&#34;&gt;About Moodle LMS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Modular Object-Oriented Dynamic Learning Environment (MOODLE)&lt;/li&gt;
+&lt;li&gt;Helps Educator to create personalised learning environments using Moodle Activities and Resources.&lt;/li&gt;
+&lt;li&gt;Approx. 213 million users worldwide. Recently MoodleUS was lauched. Source: &lt;a href=&#34;https://stats.moodle.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://stats.moodle.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Moodle delivers a powerful set of learner-centric tools and collaborative learning environments that empower both teaching and learning. &lt;/li&gt;
+&lt;li&gt;Design and development of Moodle is guided by a &amp;ldquo;social constructionist pedagogy&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Free with no licensing fees - Moodle is provided freely as Open Source software, under the GNU General Public License. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;formative-assessmentevaluation&#34;&gt;Formative Assessment/Evaluation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The concept of “formative evaluation” was introduced by Scriven (1967) - &lt;em&gt;&amp;lsquo;Scriven, M. (1967). The Methodology of Evaluation. In R. W. Tyler, R. M. Gagne, &amp;amp; M. Scriven (Eds.), Perspectives of Curriculum Evaluation Chicago (pp. 39-83)&amp;rsquo;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;formative-vs-summative-assessment&#34;&gt;Formative VS Summative assessment&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Formative&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Summative&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;In-class discussions&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Instructor-created exams&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Clicker questions&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Standardized tests&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Low-stakes group work&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Final projects&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Weekly quizzes&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Final essays&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1-minute reflection writing assignments&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Final presentations&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Homework assignments&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Final reports&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;good-feedback-practice&#34;&gt;Good feedback practice:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;helps clarify what good performance is (goals, criteria, expected standards);&lt;/li&gt;
+&lt;li&gt;facilitates the development of self-assessment (reflection) in learning;&lt;/li&gt;
+&lt;li&gt;delivers high quality information to students about their learning;&lt;/li&gt;
+&lt;li&gt;encourages teacher and peer dialogue around learning;&lt;/li&gt;
+&lt;li&gt;encourages positive motivational beliefs and self-esteem;&lt;/li&gt;
+&lt;li&gt;provides opportunities to close the gap between current and desired performance;&lt;/li&gt;
+&lt;li&gt;provides information to teachers that can be used to help shape teaching.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;formative-assessment-of-student-projects-using-moodle-assignment-activity&#34;&gt;Formative assessment of student Projects using Moodle Assignment activity&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Rubrics based evaluation:
+Sample activity: &lt;a href=&#34;https://moovit.vit.ac.in/grade/grading/manage.php?areaid=2906&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://moovit.vit.ac.in/grade/grading/manage.php?areaid=2906&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Students create group as a activity (Using Moodle Group Self-Selection activity).&lt;/li&gt;
+&lt;li&gt;Students choose time slot for review as specified by Faculty. (Moodle Scheduler plugin).&lt;/li&gt;
+&lt;li&gt;Feedback to entire group and reopening submission if required.&lt;/li&gt;
+&lt;li&gt;Link based submissions for Project demo with audio explanation.
+Sample activity: &lt;a href=&#34;https://moovit.vit.ac.in/mod/assign/view.php?id=28808&amp;amp;rownum=0&amp;amp;action=grader&amp;amp;userid=93687&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://moovit.vit.ac.in/mod/assign/view.php?id=28808&amp;rownum=0&amp;action=grader&amp;userid=93687&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;encourage-and-facilitate-online-discussions-with-moodle-forums&#34;&gt;Encourage and facilitate online discussions with Moodle forums&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The Forum activity allows students and teachers to exchange ideas by posting comments as part of a &amp;rsquo;thread&#39;.&lt;/li&gt;
+&lt;li&gt;Sample activity: https://moovit.vit.ac.in/mod/forum/view.php?id=22116&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;peer-learning-using-moodle-database-plugin&#34;&gt;Peer learning using Moodle Database plugin&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The Database activity allows the teacher and/or students to build, display and search a bank of record entries about any conceivable topic.&lt;/li&gt;
+&lt;li&gt;Sample Activity: &lt;a href=&#34;https://moovit.vit.ac.in/mod/data/view.php?id=28033&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://moovit.vit.ac.in/mod/data/view.php?id=28033&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;engage-learners-with-gamification-in-moodle&#34;&gt;Engage Learners with Gamification in Moodle&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Develop learning pathways - incentivise your learners to follow pre-defined learning routes to attain the knowledge or skills&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sample Activity: &lt;a href=&#34;https://moovit.vit.ac.in/blocks/xp/index.php/ladder/10572&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://moovit.vit.ac.in/blocks/xp/index.php/ladder/10572&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;peer-assessment-using-workshop-activity&#34;&gt;Peer assessment using workshop activity&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Workshop is a powerful peer assessment activity. Students add submissions which are then distributed amongst their peers for assessment based on a grading scale specified by the teacher.&lt;/li&gt;
+&lt;li&gt;Sample Activity: &lt;a href=&#34;https://moovit.vit.ac.in/mod/workshop/view.php?id=30099&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://moovit.vit.ac.in/mod/workshop/view.php?id=30099&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;faculty-resource-and-support-page&#34;&gt;Faculty Resource and Support Page&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Faculty-only page which allows to Share, receive, and advise on the use of Moodle in teaching:
+&lt;a href=&#34;https://moovit.vit.ac.in/course/view.php?id=10547&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://moovit.vit.ac.in/course/view.php?id=10547&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Other learning resources:  &lt;a href=&#34;https://moodle.academy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://moodle.academy/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Moodle community sites: &lt;a href=&#34;https://moodle.org/mod/forum/view.php?id=7135&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://moodle.org/mod/forum/view.php?id=7135&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://moovit.vit.ac.in/course/view.php?id=10547&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://moovit.vit.ac.in/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VIT Vellore&amp;rsquo;s Moodle Infrastructure&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://manoov.github.io/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://manoov.github.io/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://revealjs.com/pdf-export/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} One {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% fragment %}} Three {{% /fragment %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/content/slides/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

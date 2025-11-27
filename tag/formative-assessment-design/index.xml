@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Formative Assessment Design | Manoov&#39;s Homepage</title>
+    <link>https://manoov.github.io/tag/formative-assessment-design/</link>
+      <atom:link href="https://manoov.github.io/tag/formative-assessment-design/index.xml" rel="self" type="application/rss+xml" />
+    <description>Formative Assessment Design</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2022 15:45:18 +0530</lastBuildDate>
+    <image>
+      <url>https://manoov.github.io/media/icon_hu1f4c1de8b941112a95b13c381c2c09bc_15865_512x512_fill_lanczos_center_3.png</url>
+      <title>Formative Assessment Design</title>
+      <link>https://manoov.github.io/tag/formative-assessment-design/</link>
+    </image>
+    
+    <item>
+      <title>Moodle Deep Dive - Course Design with the student in mind</title>
+      <link>https://manoov.github.io/talk/moodle-deep-dive-course-design-with-the-student-in-mind/</link>
+      <pubDate>Wed, 15 Jun 2022 15:45:18 +0530</pubDate>
+      <guid>https://manoov.github.io/talk/moodle-deep-dive-course-design-with-the-student-in-mind/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning | Manoov&#39;s Homepage</title>
+    <link>https://manoov.github.io/tag/deep-learning/</link>
+      <atom:link href="https://manoov.github.io/tag/deep-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Deep Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 11 Mar 2025 23:08:04 +0530</lastBuildDate>
+    <image>
+      <url>https://manoov.github.io/media/icon_hu1f4c1de8b941112a95b13c381c2c09bc_15865_512x512_fill_lanczos_center_3.png</url>
+      <title>Deep Learning</title>
+      <link>https://manoov.github.io/tag/deep-learning/</link>
+    </image>
+    
+    <item>
+      <title>A Novel RoPE-Enhanced Informer Approach for Accurate Remaining Useful Life Prediction of Lithium-Ion Batteries</title>
+      <link>https://manoov.github.io/publication/lithium2024/</link>
+      <pubDate>Tue, 11 Mar 2025 23:08:04 +0530</pubDate>
+      <guid>https://manoov.github.io/publication/lithium2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LaTex | Manoov&#39;s Homepage</title>
+    <link>https://manoov.github.io/tag/latex/</link>
+      <atom:link href="https://manoov.github.io/tag/latex/index.xml" rel="self" type="application/rss+xml" />
+    <description>LaTex</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jul 2024 15:06:27 +0530</lastBuildDate>
+    <image>
+      <url>https://manoov.github.io/media/icon_hu1f4c1de8b941112a95b13c381c2c09bc_15865_512x512_fill_lanczos_center_3.png</url>
+      <title>LaTex</title>
+      <link>https://manoov.github.io/tag/latex/</link>
+    </image>
+    
+    <item>
+      <title>Sample-LaTex-PhD-Presentation-Template</title>
+      <link>https://manoov.github.io/post/sample-latex/</link>
+      <pubDate>Fri, 05 Jul 2024 15:06:27 +0530</pubDate>
+      <guid>https://manoov.github.io/post/sample-latex/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Downloadable LaTex Template for professional Academic Presentations (Ideal for PhD Students)
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;download-the-latex-template&#34;&gt;Download the LaTex Template:&lt;/h3&gt;
+&lt;h5 id=&#34;access-the-template-in-two-convenient-ways&#34;&gt;Access the template in two convenient ways:&lt;/h5&gt;
+&lt;p&gt;&lt;strong&gt;1. Direct Download&lt;/strong&gt;:
+Download the pre-packaged template file&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://manoov.github.io/uploads/LaTex.zip&#34; target=&#34;_blank&#34;&gt;Download the template&lt;/a&gt;
+(opens in a new tab).&lt;/p&gt;
+&lt;h4 id=&#34;running-locally&#34;&gt;Running Locally:&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Download the template.&lt;/li&gt;
+&lt;li&gt;Install LaTex: You&amp;rsquo;ll need a LaTex compiler installed on your computer.
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://miktex.org/download&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://miktex.org/download&lt;/a&gt; (OR)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tug.org/texlive/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.tug.org/texlive/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Extract the Template.&lt;/li&gt;
+&lt;li&gt;Edit the Template: Use a LaTex editor (Ex: &lt;a href=&#34;https://www.texstudio.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.texstudio.org/&lt;/a&gt;) to customize the content with your information.&lt;/li&gt;
+&lt;li&gt;Compile the LaTex: Run the compiler to generate the final PDF presentation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2. Clone from GitHub&lt;/strong&gt;:
+Keep your local copy synced with the latest updates by forking the project on GitHub:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/manoov/Sample-LaTex-PhD-Presentation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/manoov/Sample-LaTex-PhD-Presentation&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here are the steps on how to use GitHub Desktop to fork this repository locally:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Open GitHub Desktop.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Click on the File menu and select Clone Repository.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In the Clone Repository window, select the Fork tab.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Enter the URL of the repository you want to fork.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Enter a name for your fork.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Select a location to clone your fork.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Click on the Clone button.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GitHub Desktop will then clone your fork to your local machine.&lt;/p&gt;
+&lt;p&gt;You can then start working on your fork and make changes to the code. Once you are finished, you can create a pull request to merge your changes back to the original repository.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

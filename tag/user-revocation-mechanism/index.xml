@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>User revocation mechanism | Manoov&#39;s Homepage</title>
+    <link>https://manoov.github.io/tag/user-revocation-mechanism/</link>
+      <atom:link href="https://manoov.github.io/tag/user-revocation-mechanism/index.xml" rel="self" type="application/rss+xml" />
+    <description>User revocation mechanism</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 21:31:21 +0530</lastBuildDate>
+    <image>
+      <url>https://manoov.github.io/media/icon_hu1f4c1de8b941112a95b13c381c2c09bc_15865_512x512_fill_lanczos_center_3.png</url>
+      <title>User revocation mechanism</title>
+      <link>https://manoov.github.io/tag/user-revocation-mechanism/</link>
+    </image>
+    
+    <item>
+      <title>Secure and cost effective user revocation mechanism for data analysis in the cloud</title>
+      <link>https://manoov.github.io/publication/thanusha2018/</link>
+      <pubDate>Sun, 01 Apr 2018 21:31:21 +0530</pubDate>
+      <guid>https://manoov.github.io/publication/thanusha2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

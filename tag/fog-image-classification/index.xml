@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fog Image Classification | Manoov&#39;s Homepage</title>
+    <link>https://manoov.github.io/tag/fog-image-classification/</link>
+      <atom:link href="https://manoov.github.io/tag/fog-image-classification/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fog Image Classification</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Oct 2019 21:26:25 +0530</lastBuildDate>
+    <image>
+      <url>https://manoov.github.io/media/icon_hu1f4c1de8b941112a95b13c381c2c09bc_15865_512x512_fill_lanczos_center_3.png</url>
+      <title>Fog Image Classification</title>
+      <link>https://manoov.github.io/tag/fog-image-classification/</link>
+    </image>
+    
+    <item>
+      <title>Fog Image Classification and Visibility Detection Using CNN</title>
+      <link>https://manoov.github.io/publication/shruti2019/</link>
+      <pubDate>Sat, 19 Oct 2019 21:26:25 +0530</pubDate>
+      <guid>https://manoov.github.io/publication/shruti2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

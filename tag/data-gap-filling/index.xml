@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Gap Filling | Manoov&#39;s Homepage</title>
+    <link>https://manoov.github.io/tag/data-gap-filling/</link>
+      <atom:link href="https://manoov.github.io/tag/data-gap-filling/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Gap Filling</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Sep 2025 11:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://manoov.github.io/media/icon_hu1f4c1de8b941112a95b13c381c2c09bc_15865_512x512_fill_lanczos_center_3.png</url>
+      <title>Data Gap Filling</title>
+      <link>https://manoov.github.io/tag/data-gap-filling/</link>
+    </image>
+    
+    <item>
+      <title>Introduction to Machine Learning and its Applications in Ground Water Resources</title>
+      <link>https://manoov.github.io/talk/introduction-to-machine-learning-and-its-applications-in-ground-water-resources/</link>
+      <pubDate>Fri, 05 Sep 2025 11:00:00 +0530</pubDate>
+      <guid>https://manoov.github.io/talk/introduction-to-machine-learning-and-its-applications-in-ground-water-resources/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

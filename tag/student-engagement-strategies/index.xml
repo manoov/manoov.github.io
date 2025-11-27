@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Student Engagement Strategies | Manoov&#39;s Homepage</title>
+    <link>https://manoov.github.io/tag/student-engagement-strategies/</link>
+      <atom:link href="https://manoov.github.io/tag/student-engagement-strategies/index.xml" rel="self" type="application/rss+xml" />
+    <description>Student Engagement Strategies</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Apr 2024 14:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://manoov.github.io/media/icon_hu1f4c1de8b941112a95b13c381c2c09bc_15865_512x512_fill_lanczos_center_3.png</url>
+      <title>Student Engagement Strategies</title>
+      <link>https://manoov.github.io/tag/student-engagement-strategies/</link>
+    </image>
+    
+    <item>
+      <title>Hands-on Training in the Evaluation process using Moodle LMS</title>
+      <link>https://manoov.github.io/talk/hands-on-training-in-the-evaluation-process-using-moodle-lms/</link>
+      <pubDate>Wed, 03 Apr 2024 14:00:00 +0530</pubDate>
+      <guid>https://manoov.github.io/talk/hands-on-training-in-the-evaluation-process-using-moodle-lms/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

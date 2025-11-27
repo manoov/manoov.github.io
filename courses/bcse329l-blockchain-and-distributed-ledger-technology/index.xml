@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BGSE329L - Blockchain and Distributed Ledger Technology | Manoov&#39;s Homepage</title>
+    <link>https://manoov.github.io/courses/bcse329l-blockchain-and-distributed-ledger-technology/</link>
+      <atom:link href="https://manoov.github.io/courses/bcse329l-blockchain-and-distributed-ledger-technology/index.xml" rel="self" type="application/rss+xml" />
+    <description>BGSE329L - Blockchain and Distributed Ledger Technology</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://manoov.github.io/media/icon_hu1f4c1de8b941112a95b13c381c2c09bc_15865_512x512_fill_lanczos_center_3.png</url>
+      <title>BGSE329L - Blockchain and Distributed Ledger Technology</title>
+      <link>https://manoov.github.io/courses/bcse329l-blockchain-and-distributed-ledger-technology/</link>
+    </image>
+    
+  </channel>
+</rss>

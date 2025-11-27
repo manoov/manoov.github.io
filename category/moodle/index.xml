@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moodle | Manoov&#39;s Homepage</title>
+    <link>https://manoov.github.io/category/moodle/</link>
+      <atom:link href="https://manoov.github.io/category/moodle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Moodle</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://manoov.github.io/media/icon_hu1f4c1de8b941112a95b13c381c2c09bc_15865_512x512_fill_lanczos_center_3.png</url>
+      <title>Moodle</title>
+      <link>https://manoov.github.io/category/moodle/</link>
+    </image>
+    
+    <item>
+      <title>Moodle Deep Dive (Course Design with the student in mind)</title>
+      <link>https://manoov.github.io/slides/moodle_fop-2022/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://manoov.github.io/slides/moodle_fop-2022/</guid>
+      <description>&lt;h1 id=&#34;moodle-deep-dive--course-design-with-the-student-in-mind&#34;&gt;Moodle Deep Dive - Course Design with the student in mind&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://vit.ac.in/centers/asc&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic Staff College of VIT Vellore)&lt;/a&gt; | &lt;a href=&#34;https://vit.ac.in/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vellore Institute  of  Technology&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;outline-of-this-talk&#34;&gt;Outline of this talk&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;About Moodle LMS.&lt;/li&gt;
+&lt;li&gt;Course Design for formative/summative assessments.&lt;/li&gt;
+&lt;li&gt;Strategies to effectively Use Moodle to teach, assess and communicate with your learners.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;about-moodle-lms&#34;&gt;About Moodle LMS&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Modular Object-Oriented Dynamic Learning Environment (MOODLE)&lt;/li&gt;
+&lt;li&gt;Helps Educator to create personalised learning environments using Moodle Activities and Resources.&lt;/li&gt;
+&lt;li&gt;Approx. 213 million users worldwide. Recently MoodleUS was lauched. Source: &lt;a href=&#34;https://stats.moodle.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://stats.moodle.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Moodle delivers a powerful set of learner-centric tools and collaborative learning environments that empower both teaching and learning. &lt;/li&gt;
+&lt;li&gt;Design and development of Moodle is guided by a &amp;ldquo;social constructionist pedagogy&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Free with no licensing fees - Moodle is provided freely as Open Source software, under the GNU General Public License. &lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;formative-assessmentevaluation&#34;&gt;Formative Assessment/Evaluation&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The concept of “formative evaluation” was introduced by Scriven (1967) - &lt;em&gt;&amp;lsquo;Scriven, M. (1967). The Methodology of Evaluation. In R. W. Tyler, R. M. Gagne, &amp;amp; M. Scriven (Eds.), Perspectives of Curriculum Evaluation Chicago (pp. 39-83)&amp;rsquo;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;formative-vs-summative-assessment&#34;&gt;Formative VS Summative assessment&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Formative&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Summative&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;In-class discussions&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Instructor-created exams&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Clicker questions&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Standardized tests&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Low-stakes group work&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Final projects&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Weekly quizzes&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Final essays&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1-minute reflection writing assignments&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Final presentations&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Homework assignments&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;Final reports&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;good-feedback-practice&#34;&gt;Good feedback practice:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;helps clarify what good performance is (goals, criteria, expected standards);&lt;/li&gt;
+&lt;li&gt;facilitates the development of self-assessment (reflection) in learning;&lt;/li&gt;
+&lt;li&gt;delivers high quality information to students about their learning;&lt;/li&gt;
+&lt;li&gt;encourages teacher and peer dialogue around learning;&lt;/li&gt;
+&lt;li&gt;encourages positive motivational beliefs and self-esteem;&lt;/li&gt;
+&lt;li&gt;provides opportunities to close the gap between current and desired performance;&lt;/li&gt;
+&lt;li&gt;provides information to teachers that can be used to help shape teaching.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;formative-assessment-of-student-projects-using-moodle-assignment-activity&#34;&gt;Formative assessment of student Projects using Moodle Assignment activity&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Rubrics based evaluation:
+Sample activity: &lt;a href=&#34;https://moovit.vit.ac.in/grade/grading/manage.php?areaid=2906&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://moovit.vit.ac.in/grade/grading/manage.php?areaid=2906&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Students create group as a activity (Using Moodle Group Self-Selection activity).&lt;/li&gt;
+&lt;li&gt;Students choose time slot for review as specified by Faculty. (Moodle Scheduler plugin).&lt;/li&gt;
+&lt;li&gt;Feedback to entire group and reopening submission if required.&lt;/li&gt;
+&lt;li&gt;Link based submissions for Project demo with audio explanation.
+Sample activity: &lt;a href=&#34;https://moovit.vit.ac.in/mod/assign/view.php?id=28808&amp;amp;rownum=0&amp;amp;action=grader&amp;amp;userid=93687&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://moovit.vit.ac.in/mod/assign/view.php?id=28808&amp;rownum=0&amp;action=grader&amp;userid=93687&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;encourage-and-facilitate-online-discussions-with-moodle-forums&#34;&gt;Encourage and facilitate online discussions with Moodle forums&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The Forum activity allows students and teachers to exchange ideas by posting comments as part of a &amp;rsquo;thread&#39;.&lt;/li&gt;
+&lt;li&gt;Sample activity: https://moovit.vit.ac.in/mod/forum/view.php?id=22116&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;peer-learning-using-moodle-database-plugin&#34;&gt;Peer learning using Moodle Database plugin&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The Database activity allows the teacher and/or students to build, display and search a bank of record entries about any conceivable topic.&lt;/li&gt;
+&lt;li&gt;Sample Activity: &lt;a href=&#34;https://moovit.vit.ac.in/mod/data/view.php?id=28033&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://moovit.vit.ac.in/mod/data/view.php?id=28033&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;engage-learners-with-gamification-in-moodle&#34;&gt;Engage Learners with Gamification in Moodle&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Develop learning pathways - incentivise your learners to follow pre-defined learning routes to attain the knowledge or skills&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sample Activity: &lt;a href=&#34;https://moovit.vit.ac.in/blocks/xp/index.php/ladder/10572&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://moovit.vit.ac.in/blocks/xp/index.php/ladder/10572&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;peer-assessment-using-workshop-activity&#34;&gt;Peer assessment using workshop activity&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Workshop is a powerful peer assessment activity. Students add submissions which are then distributed amongst their peers for assessment based on a grading scale specified by the teacher.&lt;/li&gt;
+&lt;li&gt;Sample Activity: &lt;a href=&#34;https://moovit.vit.ac.in/mod/workshop/view.php?id=30099&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://moovit.vit.ac.in/mod/workshop/view.php?id=30099&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;faculty-resource-and-support-page&#34;&gt;Faculty Resource and Support Page&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Faculty-only page which allows to Share, receive, and advise on the use of Moodle in teaching:
+&lt;a href=&#34;https://moovit.vit.ac.in/course/view.php?id=10547&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://moovit.vit.ac.in/course/view.php?id=10547&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Other learning resources:  &lt;a href=&#34;https://moodle.academy/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://moodle.academy/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Moodle community sites: &lt;a href=&#34;https://moodle.org/mod/forum/view.php?id=7135&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://moodle.org/mod/forum/view.php?id=7135&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://moovit.vit.ac.in/course/view.php?id=10547&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://moovit.vit.ac.in/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VIT Vellore&amp;rsquo;s Moodle Infrastructure&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

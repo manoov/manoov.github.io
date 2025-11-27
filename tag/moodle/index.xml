@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moodle | Manoov&#39;s Homepage</title>
+    <link>https://manoov.github.io/tag/moodle/</link>
+      <atom:link href="https://manoov.github.io/tag/moodle/index.xml" rel="self" type="application/rss+xml" />
+    <description>Moodle</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Apr 2024 14:00:00 +0530</lastBuildDate>
+    <image>
+      <url>https://manoov.github.io/media/icon_hu1f4c1de8b941112a95b13c381c2c09bc_15865_512x512_fill_lanczos_center_3.png</url>
+      <title>Moodle</title>
+      <link>https://manoov.github.io/tag/moodle/</link>
+    </image>
+    
+    <item>
+      <title>Hands-on Training in the Evaluation process using Moodle LMS</title>
+      <link>https://manoov.github.io/talk/hands-on-training-in-the-evaluation-process-using-moodle-lms/</link>
+      <pubDate>Wed, 03 Apr 2024 14:00:00 +0530</pubDate>
+      <guid>https://manoov.github.io/talk/hands-on-training-in-the-evaluation-process-using-moodle-lms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faculty Development Programme on &#34;Moodle for Teaching English&#34;</title>
+      <link>https://manoov.github.io/talk/faculty-development-programme-on-moodle-for-teaching-english/</link>
+      <pubDate>Wed, 13 Jul 2022 14:00:12 +0530</pubDate>
+      <guid>https://manoov.github.io/talk/faculty-development-programme-on-moodle-for-teaching-english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Moodle Deep Dive - Course Design with the student in mind</title>
+      <link>https://manoov.github.io/talk/moodle-deep-dive-course-design-with-the-student-in-mind/</link>
+      <pubDate>Wed, 15 Jun 2022 15:45:18 +0530</pubDate>
+      <guid>https://manoov.github.io/talk/moodle-deep-dive-course-design-with-the-student-in-mind/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
