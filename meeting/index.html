@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: December 16, 2025 --><html lang="en-us" >
+<!-- Last Published: December 25, 2025 --><html lang="en-us" >
 
 
 <head>
@@ -999,14 +999,15 @@
 <h3 id="github-project-setup-guide">GitHub Project Setup Guide:</h3>
 <p>Follow these initial steps to set up your team for project collaboration on GitHub.</p>
 <ol>
+<li>Initial Repository Setup</li>
+</ol>
+<ul>
 <li>
 <p>Create Your Private Repository - Start with a dedicated repository for all project code and planning.</p>
 </li>
 <li>
 <p>Invite Your Team &amp; Me</p>
 </li>
-</ol>
-<ul>
 <li>
 <p>Go to Settings -&gt; Collaborators -&gt; Add People</p>
 <ul>
@@ -1022,30 +1023,21 @@
 </ul>
 </li>
 </ul>
-<ol start="3">
-<li>Use Issues for Task Management</li>
+<ol start="2">
+<li>Task Management with GitHub Issues
+Treat Issues as your central hub for ideation, research, and task definition.</li>
 </ol>
 <ul>
-<li>
-<p>Treat Issues as your central hub for ideation, research, and task definition.</p>
-</li>
-<li>
-<p>Break your project into small, clear tasks</p>
-</li>
-<li>
-<p>Detailed Description: Each issue must clearly state the goal and required outcome, along with the Assignee (who’s responsible).</p>
+<li>Break your project into small, clear tasks</li>
+<li>Detailed Description: Each issue must clearly state the goal and required outcome, along with the Assignee (who’s responsible).
 <ul>
-<li>Sub-Issues: Use the Sub-Issue feature to formally break down into smaller, dependent issues.</li>
-<li>Task Lists: Use Markdown checklists within the issue description to track granular, step-by-step progress for that specific item.</li>
+<li>Sub-Issues &amp; Task Lists: Use the Sub-Issue feature for dependencies and Markdown checklists (- <input disabled="" type="checkbox"> ) within descriptions to track granular progress.</li>
 </ul>
 </li>
-<li>
-<p>Collaboration: Discuss details, and decisions proactively in the comments section.</p>
-</li>
+<li>Collaboration: Discuss details, and decisions proactively in the comments section.</li>
 </ul>
-<ol start="4">
+<ol start="3">
 <li>Track Progress Visually with GitHub Projects
-Achieve transparency and flow by visualizing your work.
 <ul>
 <li>
 <p>Project Integration: Link all your Issues (including sub-issues) to a GitHub Project. <a href="https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects" target="_blank" rel="noopener">GitHub Projects</a></p>
@@ -1053,39 +1045,50 @@ Achieve transparency and flow by visualizing your work.
 <li>
 <p>Visualization: Use the Project&rsquo;s customizable board (Kanban or Table view) to track the flow of work (To Do, In Progress, Review, Done).</p>
 </li>
-<li>
-<p>Commit and push regularly - don&rsquo;t save everything for last minute</p>
-</li>
-<li>
-<p>Consider using <a href="https://obsidian.md/" target="_blank" rel="noopener">Obsidian</a> or Google Docs for shared notes</p>
-</li>
 </ul>
 </li>
+<li>Branching &amp; PRs
+To ensure your contributions are tracked and graded, follow this workflow for every task.</li>
 </ol>
+<p>Step 1: Update your local code/README.md
+Before starting, ensure you have the latest version of the project from the main branch.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">git checkout main
+</span></span><span class="line"><span class="cl">git pull origin main
+</span></span></code></pre></div><p>Step 2: Create a new branch
+Never work directly on main. Create a branch for your specific task.</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl"># Replace &#39;task-name&#39; with your actual task
+</span></span><span class="line"><span class="cl">git checkout -b student-name/task-name
+</span></span></code></pre></div><p>Step 3: Save your work (Commit)
+As you work, save your progress with clear, descriptive messages. Small, frequent updates prevent &ldquo;merge chaos.&rdquo;</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">git add .
+</span></span><span class="line"><span class="cl">git commit -m &#34;Brief description of what you changed&#34;
+</span></span></code></pre></div><p>Step 4: Upload your branch to GitHub</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">git push origin student-name/task-name
+</span></span></code></pre></div><p>Step 5: Create a Pull Request (PR)
+- Go to your repository on GitHub.com.</p>
+<pre><code>- Click the yellow bar saying &quot;Compare &amp; pull request.&quot;
+
+- Link the Issue: In the description, write Closes #IssueNumber (e.g., Closes #4). This automatically links your code to the task.
+
+- Click &quot;Create pull request.&quot;
+
+- Commit and push regularly - don't save everything for last minute
+</code></pre>
 <p>Optional:</p>
 <ol>
 <li>
-<p>For deeper research and interconnected thinking, try using Obsidian with the Zettelkasten philosophy:</p>
+<p>For deeper research and interconnected thinking, try using <a href="https://obsidian.md/" target="_blank" rel="noopener">Obsidian</a> with the <a href="https://zettelkasten.de/introduction/" target="_blank" rel="noopener">Zettelkasten philosophy</a>:</p>
 <ul>
 <li>
 <p>Sync with GitHub for team collaboration: <a href="https://github.com/Vinzent03/obsidian-git" target="_blank" rel="noopener">https://github.com/Vinzent03/obsidian-git</a></p>
 </li>
 <li>
-<p>Share an Obsidian vault as a team knowledge base</p>
-</li>
-<li>
-<p>All notes become interconnected.</p>
-</li>
-<li>
-<p>Track research insights alongside your code</p>
+<p>Share an Obsidian vault as a team knowledge base though GitHub, all team notes become interconnected.</p>
 </li>
 </ul>
 </li>
 <li>
 <p>Automate workflows with GitHub Actions (learn DevOps) <a href="https://docs.github.com/en/actions/examples" target="_blank" rel="noopener">GitHub Actions</a>.</p>
-</li>
-<li>
-<p>Commit regularly - small, frequent updates prevent merge chaos</p>
 </li>
 </ol>
 
