@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- This site was created with Wowchemy. https://www.wowchemy.com -->
-<!-- Last Published: December 25, 2025 --><html lang="en-us" >
+<!-- Last Published: December 26, 2025 --><html lang="en-us" >
 
 
 <head>
@@ -1016,39 +1016,40 @@
 </ul>
 <p>📨 Send these details to: manoov.r [at] vit [dot] ac [dot] in</p>
 <p>2️⃣ Task Management with GitHub Issues</p>
-<p>▪️ Treat Issues as your central hub for ideation, research, and task definition.</p>
-<p>▪️ Break your project into small, clear tasks</p>
-<p>▪️ Detailed Description: Each issue must clearly state the goal and required outcome, along with the Assignee (who’s responsible).</p>
+<p>▪️ Team members must choose a specific sub-topic or feature of the project they are interested in contributing to.</p>
+<p>▪️ Team leader will create corresponding Issues for these sub-topics.</p>
+<p>▪️ Each issue will be assigned to the respective team member. This acts as your central hub for ideation and task definition.</p>
 <ul>
-<li>Sub-Issues &amp; Task Lists: Use the Sub-Issue feature for dependencies and Markdown checklists (- <input disabled="" type="checkbox"> ) within descriptions to track progress.</li>
+<li>Use Markdown checklists (- <input disabled="" type="checkbox"> ) within issue descriptions to track progress on sub-tasks.</li>
 </ul>
 <p>▪️ Use comments to collaborate and document decisions as you go.</p>
 <p>3️⃣ Track Progress Visually with GitHub Projects</p>
-<p>▫️ Project Integration: Link all your Issues (including sub-issues) to a GitHub Project. <a href="https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects" target="_blank" rel="noopener">GitHub Projects</a></p>
+<p>▫️ Project Integration: Link all Issues (including sub-issues) to a GitHub Project Board. <a href="https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects" target="_blank" rel="noopener">GitHub Projects</a></p>
 <p>▫️ Visualization: Use the Project&rsquo;s customizable board (Kanban or Table view) to track the flow of work (To Do, In Progress, Review, Done).</p>
 <p>4️⃣ Branching &amp; PRs
-To ensure your contributions are tracked and graded, follow this workflow for every task.</p>
+To ensure your contributions are tracked and graded, follow this incremental workflow for every task:</p>
 <p>⚙️ Step-1: Update your local code/README.md
-Before starting, ensure you have the latest version of the project from the main branch.</p>
+Sync with Main Before starting, always pull the latest changes:</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">git checkout main
 </span></span><span class="line"><span class="cl">git pull origin main
-</span></span></code></pre></div><p>⚙️ Step-2: Create a new branch
-Never work directly on main. Create a branch for your specific task.</p>
+</span></span></code></pre></div><p>⚙️ Step-2: Create a new branch. Never work directly on main.
+Create a branch for your specific task using descriptive names.</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl"># Replace &#39;task-name&#39; with your actual task
 </span></span><span class="line"><span class="cl">git checkout -b student-name/task-name
-</span></span></code></pre></div><p>⚙️ Step-3: Save your work (Commit)
+</span></span></code></pre></div><p>⚙️ Step-3: Save your work (Commit) - Incremental Commits
 As you work, save your progress with clear, descriptive messages. Small, frequent updates prevent &ldquo;merge chaos.&rdquo;</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">git add .
 </span></span><span class="line"><span class="cl">git commit -m &#34;Brief description of what you changed&#34;
-</span></span></code></pre></div><p>⚙️ Step-4: Upload your branch to GitHub</p>
+</span></span></code></pre></div><p>⚙️ Step-4: Push your branch to GitHub</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">git push origin student-name/task-name
-</span></span></code></pre></div><p>⚙️ Step-5: Create a <a href="https://www.youtube.com/watch?v=nCKdihvneS0" target="_blank" rel="noopener">Pull Request</a> (PR)
+</span></span></code></pre></div><p>⚙️ Step-5: Pull Requests (PRs) &amp; Review</p>
+<p>Create a <a href="https://www.youtube.com/watch?v=nCKdihvneS0" target="_blank" rel="noopener">Pull Request</a> (PR)
 - Go to your repository on GitHub.com.</p>
-<pre><code>- Click the yellow bar saying &quot;Compare &amp; pull request.&quot;
+<pre><code>- Open a Pull Request on GitHub.
 
-- Link the Issue: In the description, write Closes #IssueNumber (e.g., Closes #4). This automatically links your code to the task.
+- Link the Issue: In the PR description, write Closes #IssueNumber to link it to your task.
 
-- Click &quot;Create pull request.&quot;
+- Review Process: Either the Instructor or team leader will review the PR. Feedbacks must be addressed before the contribution is merged into the main repository.
 
 - Commit and push regularly - don't save everything for last minute
 </code></pre>
@@ -1066,7 +1067,7 @@ As you work, save your progress with clear, descriptive messages. Small, frequen
 <tr>
 <td style="text-align:left">🔹 Commit Consistency</td>
 <td style="text-align:left">25%</td>
-<td style="text-align:left">Shows steady, incremental work throughout the project timeline (no &ldquo;last-minute&rdquo; bulk uploads).</td>
+<td style="text-align:left">Evidence of steady, incremental work. No &ldquo;last-minute&rdquo; bulk uploads. High frequency of small, meaningful commits to task branches.</td>
 </tr>
 <tr>
 <td style="text-align:left">🔹 Technical Contribution</td>
@@ -1074,19 +1075,19 @@ As you work, save your progress with clear, descriptive messages. Small, frequen
 <td style="text-align:left">Code or documentation contributions via Pull Requests that comply with the project&rsquo;s &ldquo;Files Changed&rdquo; standards.</td>
 </tr>
 <tr>
-<td style="text-align:left">🔹 PR Communication</td>
+<td style="text-align:left">🔹 PR &amp; Repo Workflow</td>
 <td style="text-align:left">20%</td>
 <td style="text-align:left">Clear, descriptive Pull Request messages that link to Issues (e.g., Closes #1)</td>
 </tr>
 <tr>
 <td style="text-align:left">🔹 Peer Review</td>
 <td style="text-align:left">15%</td>
-<td style="text-align:left">Actively engaged in commenting on and reviewing at least one teammate&rsquo;s code or documentation.</td>
+<td style="text-align:left">Active engagement in commenting on and reviewing teammate&rsquo;s PRs code or documentation.</td>
 </tr>
 <tr>
-<td style="text-align:left">🔹 Project Management</td>
+<td style="text-align:left">🔹 Project Documentation</td>
 <td style="text-align:left">10%</td>
-<td style="text-align:left">Properly uses the GitHub Project board and Issues to track tasks, deadlines, and progress updates.</td>
+<td style="text-align:left">Proper use of the GitHub Project board and concurrent contributions to the README.md, ensuring it serves as a live project report.</td>
 </tr>
 </tbody>
 </table>
