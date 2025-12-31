@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MDI3002 Foundations of Data Science | Manoov&#39;s Homepage</title>
+    <title>MDI3002 Foundations of Data Science [Fall 2025-26] | Manoov&#39;s Homepage</title>
     <link>https://manoov.github.io/courses/fds/</link>
       <atom:link href="https://manoov.github.io/courses/fds/index.xml" rel="self" type="application/rss+xml" />
-    <description>MDI3002 Foundations of Data Science</description>
+    <description>MDI3002 Foundations of Data Science [Fall 2025-26]</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://manoov.github.io/media/icon_hu1f4c1de8b941112a95b13c381c2c09bc_15865_512x512_fill_lanczos_center_3.png</url>
-      <title>MDI3002 Foundations of Data Science</title>
+      <title>MDI3002 Foundations of Data Science [Fall 2025-26]</title>
       <link>https://manoov.github.io/courses/fds/</link>
     </image>
     

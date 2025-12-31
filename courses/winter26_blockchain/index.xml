@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BCSE324L Foundations of Blockchain Technology [Winter 2025-26] | Manoov&#39;s Homepage</title>
+    <link>https://manoov.github.io/courses/winter26_blockchain/</link>
+      <atom:link href="https://manoov.github.io/courses/winter26_blockchain/index.xml" rel="self" type="application/rss+xml" />
+    <description>BCSE324L Foundations of Blockchain Technology [Winter 2025-26]</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://manoov.github.io/media/icon_hu1f4c1de8b941112a95b13c381c2c09bc_15865_512x512_fill_lanczos_center_3.png</url>
+      <title>BCSE324L Foundations of Blockchain Technology [Winter 2025-26]</title>
+      <link>https://manoov.github.io/courses/winter26_blockchain/</link>
+    </image>
+    
+  </channel>
+</rss>

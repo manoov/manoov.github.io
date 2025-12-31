@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSI3012 Distributed Systems [Winter 2025-26] | Manoov&#39;s Homepage</title>
+    <link>https://manoov.github.io/courses/ds/</link>
+      <atom:link href="https://manoov.github.io/courses/ds/index.xml" rel="self" type="application/rss+xml" />
+    <description>CSI3012 Distributed Systems [Winter 2025-26]</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://manoov.github.io/media/icon_hu1f4c1de8b941112a95b13c381c2c09bc_15865_512x512_fill_lanczos_center_3.png</url>
+      <title>CSI3012 Distributed Systems [Winter 2025-26]</title>
+      <link>https://manoov.github.io/courses/ds/</link>
+    </image>
+    
+  </channel>
+</rss>
