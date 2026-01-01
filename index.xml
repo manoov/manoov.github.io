@@ -46,55 +46,28 @@
     Downloadable LaTex Template for professional Academic Presentations (Ideal for PhD Students)
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;h3 id=&#34;download-the-latex-template&#34;&gt;Download the LaTex Template:&lt;/h3&gt;
-&lt;h5 id=&#34;access-the-template-in-two-convenient-ways&#34;&gt;Access the template in two convenient ways:&lt;/h5&gt;
-&lt;p&gt;&lt;strong&gt;1. Direct Download&lt;/strong&gt;:
-Download the pre-packaged template file&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://manoov.github.io/uploads/LaTex.zip&#34; target=&#34;_blank&#34;&gt;Download the template&lt;/a&gt;
-(opens in a new tab).&lt;/p&gt;
+&lt;h3 id=&#34;download-the-latex-template&#34;&gt;Download the LaTeX Template&lt;/h3&gt;
+&lt;h5 id=&#34;direct-download&#34;&gt;Direct Download:&lt;/h5&gt;
+&lt;p&gt;Download the pre-packaged template file: &lt;a href=&#34;your-download-link-here&#34;&gt;PhD_Presentation_Template.zip&lt;/a&gt; (opens in a new tab).&lt;/p&gt;
 &lt;h4 id=&#34;running-locally&#34;&gt;Running Locally:&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;Download the template.&lt;/li&gt;
-&lt;li&gt;Install LaTex: You&amp;rsquo;ll need a LaTex compiler installed on your computer.
+&lt;li&gt;&lt;strong&gt;Download the template&lt;/strong&gt; using the link above.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Install LaTeX&lt;/strong&gt;: You&amp;rsquo;ll need a LaTeX compiler installed on your computer:
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://miktex.org/download&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://miktex.org/download&lt;/a&gt; (OR)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.tug.org/texlive/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.tug.org/texlive/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://miktex.org/download&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MiKTeX&lt;/a&gt; (Recommended for Windows)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.tug.org/texlive/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TeX Live&lt;/a&gt; (Cross-platform)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tug.org/mactex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MacTeX&lt;/a&gt; (For macOS users)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;Extract the Template.&lt;/li&gt;
-&lt;li&gt;Edit the Template: Use a LaTex editor (Ex: &lt;a href=&#34;https://www.texstudio.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.texstudio.org/&lt;/a&gt;) to customize the content with your information.&lt;/li&gt;
-&lt;li&gt;Compile the LaTex: Run the compiler to generate the final PDF presentation.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;2. Clone from GitHub&lt;/strong&gt;:
-Keep your local copy synced with the latest updates by forking the project on GitHub:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/manoov/Sample-LaTex-PhD-Presentation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/manoov/Sample-LaTex-PhD-Presentation&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Here are the steps on how to use GitHub Desktop to fork this repository locally:&lt;/p&gt;
+&lt;li&gt;&lt;strong&gt;Extract the Template&lt;/strong&gt;: Unzip the downloaded file to your preferred location.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit the Template&lt;/strong&gt;: Use a LaTeX editor to customize the content with your information:
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Open GitHub Desktop.&lt;/p&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.texstudio.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TeXstudio&lt;/a&gt; (Free, cross-platform)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.overleaf.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Overleaf&lt;/a&gt; (Online editor, no installation required)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://code.visualstudio.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;VS Code&lt;/a&gt; with LaTeX Workshop extension&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Click on the File menu and select Clone Repository.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;In the Clone Repository window, select the Fork tab.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Enter the URL of the repository you want to fork.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Enter a name for your fork.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Select a location to clone your fork.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Click on the Clone button.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;GitHub Desktop will then clone your fork to your local machine.&lt;/p&gt;
-&lt;p&gt;You can then start working on your fork and make changes to the code. Once you are finished, you can create a pull request to merge your changes back to the original repository.&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Compile the LaTeX&lt;/strong&gt;: Run the compiler to generate the final PDF presentation.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -368,7 +341,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-426975183&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-947216538&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -378,7 +351,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-426975183&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-947216538&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
