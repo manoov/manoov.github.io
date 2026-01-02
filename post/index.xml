@@ -5,7 +5,7 @@
     <link>https://manoov.github.io/post/</link>
       <atom:link href="https://manoov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Jul 2024 15:06:27 +0530</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Dec 2025 15:06:27 +0530</lastBuildDate>
     <image>
       <url>https://manoov.github.io/media/icon_hu1f4c1de8b941112a95b13c381c2c09bc_15865_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Sample-LaTex-PhD-Presentation-Template</title>
       <link>https://manoov.github.io/post/sample-latex/</link>
-      <pubDate>Fri, 05 Jul 2024 15:06:27 +0530</pubDate>
+      <pubDate>Fri, 05 Dec 2025 15:06:27 +0530</pubDate>
       <guid>https://manoov.github.io/post/sample-latex/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
@@ -24,7 +24,7 @@
 &lt;/div&gt;
 &lt;h3 id=&#34;download-the-latex-template&#34;&gt;Download the LaTeX Template&lt;/h3&gt;
 &lt;h5 id=&#34;direct-download&#34;&gt;Direct Download:&lt;/h5&gt;
-&lt;p&gt;Download the pre-packaged template file: &lt;a href=&#34;your-download-link-here&#34;&gt;/uploads/latex.zip&lt;/a&gt; (opens in a new tab).&lt;/p&gt;
+&lt;p&gt;Download the pre-packaged template file: &lt;a href=&#34;https://manoov.github.io/uploads/latex.zip&#34;&gt;latex.zip&lt;/a&gt; (opens in a new tab).&lt;/p&gt;
 &lt;h4 id=&#34;running-locally&#34;&gt;Running Locally:&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Download the template&lt;/strong&gt; using the link above.&lt;/li&gt;
@@ -232,7 +232,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-368945127&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-278936415&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -242,7 +242,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-368945127&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-278936415&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
